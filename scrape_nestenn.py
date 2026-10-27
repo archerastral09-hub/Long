@@ -50,7 +50,14 @@ _local = threading.local()
 def session():
     if not hasattr(_local, "s"):
         s = requests.Session()
-        s.headers.update({"User-Agent": UA, "Accept-Language": "fr-FR,fr;q=0.9"})
+        s.headers.update(
+            {
+                "User-Agent": UA,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "fr-FR,fr;q=0.9",
+                "Upgrade-Insecure-Requests": "1",
+            }
+        )
         _local.s = s
     return _local.s
 
@@ -93,6 +100,60 @@ def name_from_alt(tag):
 
 def clean(t):
     return re.sub(r"\s+", " ", t or "").strip()
+
+
+
+def is_real_nestcard(html):
+    """Vrai si la page est une nestcard (bloc contact), pas la page /agent-immobilier."""
+    return bool(html) and ('class="w20' in html or "class='w20" in html or "mailto:" in html)
+
+
+def fetch_nestcard(url):
+    """
+    Le serveur renvoie la page liste /agent-immobilier (200) au lieu de la nestcard quand la
+    requête ne ressemble pas à une navigation (pas de Referer / de cookie de session).
+    On tente : 1) Referer = page agents ; 2) warm-up cookies (accueil puis page agents) + Referer.
+    """
+    u = urlparse(url)
+    origin = f"{u.scheme}://{u.netloc}"
+    agents_page = origin + "/agent-immobilier"
+    s = session()
+
+    def get(ref, follow=True):
+        time.sleep(DELAY)
+        h = {"Referer": ref, "Sec-Fetch-Dest": "document", "Sec-Fetch-Mode": "navigate",
+             "Sec-Fetch-Site": "same-origin", "Sec-Fetch-User": "?1"}
+        try:
+            return s.get(url, headers=h, timeout=30, allow_redirects=follow)
+        except requests.RequestException as e:
+            print(f"  ! {url} ({e})", file=sys.stderr)
+            return None
+
+    # diagnostic : y a-t-il une redirection ?
+    r = get(agents_page, follow=False)
+    if r is not None and r.status_code in (301, 302, 303, 307, 308):
+        print(f"  ~ {r.status_code} {url} -> {r.headers.get('Location')}", file=sys.stderr)
+        r = get(agents_page, follow=True)
+    if r is not None and r.status_code == 200:
+        r.encoding = "utf-8"
+        if is_real_nestcard(r.text):
+            return r.text
+
+    # warm-up : visite "humaine" de l'accueil puis de la page agents (pose les cookies)
+    for step in (origin + "/", agents_page):
+        try:
+            time.sleep(DELAY)
+            s.get(step, timeout=30)
+        except requests.RequestException:
+            pass
+    r = get(agents_page, follow=True)
+    if r is not None and r.status_code == 200:
+        r.encoding = "utf-8"
+        if is_real_nestcard(r.text):
+            return r.text
+        print(f"  ~ toujours pas une nestcard: {url} (url finale {r.url})", file=sys.stderr)
+        return r.text
+    return None
 
 
 # --------------------------------------------------------------------------
@@ -299,8 +360,8 @@ def process(agency):
     for a in to_fetch:
         if not a["url"]:
             continue
-        h = fetch(a["url"])
-        cards[a["url"]] = parse_nestcard(h) if h else {}
+        h = fetch_nestcard(a["url"])
+        cards[a["url"]] = parse_nestcard(h) if (h and is_real_nestcard(h)) else {}
         if not cards[a["url"]].get("email"):
             n = len(h) if h else 0
             print(
@@ -382,4 +443,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-          
+      
