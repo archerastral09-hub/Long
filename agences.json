@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "1",
+    "nom": "l'Adresse Concept Premium Guignes",
+    "adresse": "2, rue de Troyes, 77390 Guignes",
+    "telephone": "01 64 06 77 77",
+    "url": "https://www.ladresse.com/agence/l-adresse-concept-premium-guignes/1"
+  },
+  {
+    "id": "2",
+    "nom": "l'Adresse Concept Premium Melun",
+    "adresse": "30 rue du Général de Gaulle, 77000 Melun",
+    "telephone": "01 64 71 99 99",
+    "url": "https://www.ladresse.com/agence/l-adresse-concept-premium-melun/2"
+  },
+  {
+    "id": "3",
+    "nom": "l'Adresse Concept Premium Brie",
+    "adresse": "55, rue du Général Leclerc, 77170 Brie-Comte-Robert",
+    "telephone": "01 60 60 84 42",
+    "url": "https://www.ladresse.com/agence/l-adresse-concept-premium-brie/3"
+  },
+  {
+    "id": "4",
+    "nom": "l'Adresse - Agence de la Halle",
+    "adresse": "19, rue du Général Leclerc, 77370 Nangis",
+    "telephone": "01 64 08 09 94",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-la-halle/4"
+  },
+  {
+    "id": "5",
+    "nom": "l'Adresse Agence I'Meaux",
+    "adresse": "49 rue du commandant Berge, 77100 Meaux",
+    "telephone": "01 60 24 40 12",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-i-meaux/5"
+  },
+  {
+    "id": "6",
+    "nom": "l'Adresse Agence de Trilport",
+    "adresse": "27 rue du Marechal Joffre, 77470 Trilport",
+    "telephone": "01 60 38 11 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-trilport/6"
+  },
+  {
+    "id": "8",
+    "nom": "l'Adresse CHEVRY",
+    "adresse": "64 rue Charles Pathé, 77173 Chevry-Cossigny",
+    "telephone": "01 64 05 89 74",
+    "url": "https://www.ladresse.com/agence/l-adresse-chevry/8"
+  },
+  {
+    "id": "9",
+    "nom": "l'Adresse SOPATRIM GAGNY / NEUILLY",
+    "adresse": "53, rue Vaillant Couturier, 93220 Gagny",
+    "telephone": "01 43 08 93 47",
+    "url": "https://www.ladresse.com/agence/l-adresse-sopatrim-gagny-neuilly/9"
+  },
+  {
+    "id": "10",
+    "nom": "l'Adresse Roissy-en-Brie",
+    "adresse": "27 avenue du Général Leclerc, 77680 Roissy-en-Brie",
+    "telephone": "01 64 40 83 16",
+    "url": "https://www.ladresse.com/agence/l-adresse-roissy-en-brie/10"
+  },
+  {
+    "id": "12",
+    "nom": "l'Adresse Noisiel",
+    "adresse": "130 rue Claire Menier, 77186 Noisiel",
+    "telephone": "01 64 21 91 14",
+    "url": "https://www.ladresse.com/agence/l-adresse-noisiel/12"
+  },
+  {
+    "id": "13",
+    "nom": "l'Adresse CIVM",
+    "adresse": "25 Grande Rue Charles de Gaulle, 94360 Bry-sur-Marne",
+    "telephone": "01 49 83 88 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-civm/13"
+  },
+  {
+    "id": "14",
+    "nom": "l'Adresse Agence de l'Eglise",
+    "adresse": "59 avenue du Général de Gaulle, 77330 Ozoir-la-Ferrière",
+    "telephone": "01 60 34 30 54",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-l-eglise/14"
+  },
+  {
+    "id": "15",
+    "nom": "l'Adresse Lognes",
+    "adresse": "3 Esplanade des Droits de l'Homme, 77185 Lognes",
+    "telephone": "01 64 11 97 92",
+    "url": "https://www.ladresse.com/agence/l-adresse-lognes/15"
+  },
+  {
+    "id": "16",
+    "nom": "l'Adresse BENOTEAU IMMOBILIER",
+    "adresse": "37 Avenue de QUINCY, 77380 Combs-la-Ville",
+    "telephone": "01 60 60 72 29",
+    "url": "https://www.ladresse.com/agence/l-adresse-benoteau-immobilier/16"
+  },
+  {
+    "id": "19",
+    "nom": "l'Adresse Agence GILLE",
+    "adresse": "176 grande rue Charles de Gaulle, 94130 Nogent-sur-Marne",
+    "telephone": "01 48 71 22 97",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-gille/19"
+  },
+  {
+    "id": "20",
+    "nom": "l'Adresse - DIJON BEAUX-ARTS",
+    "adresse": "2 rue Michelet, 21000 Dijon",
+    "telephone": "03 80 30 70 70",
+    "url": "https://www.ladresse.com/agence/l-adresse-dijon-beaux-arts/20"
+  },
+  {
+    "id": "21",
+    "nom": "l'Adresse Immo Mairie",
+    "adresse": "103 avenue du général de Gaulle, 94170 Le Perreux-sur-Marne",
+    "telephone": "01 48 71 36 36",
+    "url": "https://www.ladresse.com/agence/l-adresse-immo-mairie/21"
+  },
+  {
+    "id": "22",
+    "nom": "l'Adresse La Maison Perchée",
+    "adresse": "23 rue Léopold Bourg, 88000 Épinal",
+    "telephone": "03 29 64 46 44",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-maison-perchee/22"
+  },
+  {
+    "id": "23",
+    "nom": "l'Adresse ADN Gestion Transaction",
+    "adresse": "11 boulevard de Strasbourg, 94130 Nogent-sur-Marne",
+    "telephone": "01 43 94 42 42",
+    "url": "https://www.ladresse.com/agence/l-adresse-adn-gestion-transaction/23"
+  },
+  {
+    "id": "24",
+    "nom": "l'Adresse Agence Coeur de Ville",
+    "adresse": "2 rue d'Alsace, 77420 Champs-sur-Marne",
+    "telephone": "01 60 05 03 82",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-coeur-de-ville/24"
+  },
+  {
+    "id": "26",
+    "nom": "l'Adresse Châtillon",
+    "adresse": "48 Boulevard de Vanves, 92320 Châtillon",
+    "telephone": "01 47 35 00 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-chatillon/26"
+  },
+  {
+    "id": "27",
+    "nom": "l'Adresse Torcy",
+    "adresse": "40 rue de Paris, 77200 Torcy",
+    "telephone": "01 64 12 12 12",
+    "url": "https://www.ladresse.com/agence/l-adresse-torcy/27"
+  },
+  {
+    "id": "28",
+    "nom": "l'Adresse - Île de Nantes - Redon",
+    "adresse": "7, rue Louis Blanc, 44200 Nantes",
+    "telephone": "02 49 62 24 40",
+    "url": "https://www.ladresse.com/agence/l-adresse-ile-de-nantes-redon/28"
+  },
+  {
+    "id": "31",
+    "nom": "l'Adresse Logerim",
+    "adresse": "28 rue de Savigny, 91390 Morsang-sur-Orge",
+    "telephone": "01 69 46 41 61",
+    "url": "https://www.ladresse.com/agence/l-adresse-logerim/31"
+  },
+  {
+    "id": "33",
+    "nom": "l'Adresse ST Sébastien sur Loire",
+    "adresse": "13, avenue de la Martellière, 44230 Saint-Sébastien-sur-Loire",
+    "telephone": "02 40 80 52 30",
+    "url": "https://www.ladresse.com/agence/l-adresse-st-sebastien-sur-loire/33"
+  },
+  {
+    "id": "34",
+    "nom": "l'Adresse Narbonne",
+    "adresse": "2 Boulevard Frédéric Mistral, 11100 Narbonne",
+    "telephone": "04 68 75 09 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-narbonne/34"
+  },
+  {
+    "id": "35",
+    "nom": "L'ADRESSE - Talensac by 4IMMO",
+    "adresse": "4 rue Jeanne d'Arc, 44000 Nantes",
+    "telephone": "02 40 48 47 99",
+    "url": "https://www.ladresse.com/agence/l-adresse-talensac-by-4immo/35"
+  },
+  {
+    "id": "36",
+    "nom": "l'Adresse - Carcassonne",
+    "adresse": "22 Avenue Henri Gout, 11000 Carcassonne",
+    "telephone": "04 68 47 22 22",
+    "url": "https://www.ladresse.com/agence/l-adresse-carcassonne/36"
+  },
+  {
+    "id": "37",
+    "nom": "l'Adresse Le Touquet",
+    "adresse": "53 Rue de Moscou, 62520 Le Touquet-Paris-Plage",
+    "telephone": "03 21 05 60 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-le-touquet/37"
+  },
+  {
+    "id": "38",
+    "nom": "l'Adresse - CHRISTOPHE IMMOBILIER",
+    "adresse": "35 avenue du Général de Gaulle, 83260 La Crau",
+    "telephone": "04 94 66 77 33",
+    "url": "https://www.ladresse.com/agence/l-adresse-christophe-immobilier/38"
+  },
+  {
+    "id": "39",
+    "nom": "l'Adresse - Saint Maur des Fossés",
+    "adresse": "21 boulevard Maurice Berteaux, 94100 Saint-Maur-des-Fossés",
+    "telephone": "01 42 83 60 61",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-maur-des-fosses/39"
+  },
+  {
+    "id": "40",
+    "nom": "l'Adresse - Marguerittes",
+    "adresse": "22 Avenue de Provence, 30320 Marguerittes",
+    "telephone": "04 66 75 57 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-marguerittes/40"
+  },
+  {
+    "id": "41",
+    "nom": "l'Adresse Cabinet Roulland",
+    "adresse": "7 avenue thiers, 06130 Grasse",
+    "telephone": "04 93 36 09 19",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-roulland/41"
+  },
+  {
+    "id": "44",
+    "nom": "l'Adresse - Bourg en Bresse ML JOUVENT Immobilier",
+    "adresse": "48 Bis Boulevard de Brou, 01000 Bourg-en-Bresse",
+    "telephone": "04 74 45 06 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-bourg-en-bresse-ml-jouvent-immobilier/44"
+  },
+  {
+    "id": "45",
+    "nom": "l'Adresse - Vitry sur Seine",
+    "adresse": "125, Avenue Paul Vaillant Couturier, 94400 Vitry-sur-Seine",
+    "telephone": "01 55 53 20 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-vitry-sur-seine/45"
+  },
+  {
+    "id": "46",
+    "nom": "l'Adresse Boissière",
+    "adresse": "125 bis boulevard de la Boissière, 93100 Montreuil",
+    "telephone": "01 48 36 48 48",
+    "url": "https://www.ladresse.com/agence/l-adresse-boissiere/46"
+  },
+  {
+    "id": "47",
+    "nom": "l'Adresse Croix de Chavaux",
+    "adresse": "57 bd Rouget de l'Isle, 93100 Montreuil",
+    "telephone": "01 48 35 40 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-croix-de-chavaux/47"
+  },
+  {
+    "id": "48",
+    "nom": "l'Adresse Mairie de Montreuil",
+    "adresse": "9 rue de l'Eglise, 93100 Montreuil",
+    "telephone": "01 48 58 64 24",
+    "url": "https://www.ladresse.com/agence/l-adresse-mairie-de-montreuil/48"
+  },
+  {
+    "id": "49",
+    "nom": "l'Adresse BUTTE AUX CAILLES",
+    "adresse": "196 rue de Tolbiac, 75013 Paris 13",
+    "telephone": "01 83 75 52 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-butte-aux-cailles/49"
+  },
+  {
+    "id": "50",
+    "nom": "l'Adresse L'ATELIER IMMOBILIER",
+    "adresse": "17 rue des Grands Patis, 44300 Nantes",
+    "telephone": "02 40 52 25 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-l-atelier-immobilier/50"
+  },
+  {
+    "id": "51",
+    "nom": "l'Adresse - Limoux",
+    "adresse": "9, allée des Marronniers, 11300 Limoux",
+    "telephone": "04 68 31 57 05",
+    "url": "https://www.ladresse.com/agence/l-adresse-limoux/51"
+  },
+  {
+    "id": "52",
+    "nom": "l'Adresse - CASTELNAUDARY",
+    "adresse": "21 Place de la République, 11400 Castelnaudary",
+    "telephone": "04 68 23 15 75",
+    "url": "https://www.ladresse.com/agence/l-adresse-castelnaudary/52"
+  },
+  {
+    "id": "53",
+    "nom": "l'Adresse - Beauvoir sur Mer",
+    "adresse": "2 rue Saint Nicolas, 85230 Beauvoir-sur-Mer",
+    "telephone": "02 51 68 73 88",
+    "url": "https://www.ladresse.com/agence/l-adresse-beauvoir-sur-mer/53"
+  },
+  {
+    "id": "54",
+    "nom": "l'Adresse CHATELAILLON-PLAGE",
+    "adresse": "58 Avenue de Strasbourg, 17340 Châtelaillon-Plage",
+    "telephone": "05 46 43 87 70",
+    "url": "https://www.ladresse.com/agence/l-adresse-chatelaillon-plage/54"
+  },
+  {
+    "id": "55",
+    "nom": "l'Adresse Ile de Noirmoutier",
+    "adresse": "1 route du Gois, 85630 Barbâtre",
+    "telephone": "02 51 39 46 36",
+    "url": "https://www.ladresse.com/agence/l-adresse-ile-de-noirmoutier/55"
+  },
+  {
+    "id": "57",
+    "nom": "l'Adresse Brissac Quincé",
+    "adresse": "8, place Georges Clémenceau, 49320 Brissac-Quincé",
+    "telephone": "02 41 91 21 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-brissac-quince/57"
+  },
+  {
+    "id": "61",
+    "nom": "l'Adresse CEC NICE",
+    "adresse": "69, Boulevard Gorbella, 06100 Nice",
+    "telephone": "04 93 52 68 68",
+    "url": "https://www.ladresse.com/agence/l-adresse-cec-nice/61"
+  },
+  {
+    "id": "64",
+    "nom": "l'Adresse - Reims",
+    "adresse": "35 bis boulevard Foch, 51100 Reims",
+    "telephone": "03 26 79 10 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-reims/64"
+  },
+  {
+    "id": "65",
+    "nom": "l'Adresse - Machecoul",
+    "adresse": "34 rue du Marché, 44270 Machecoul",
+    "telephone": "02 52 70 01 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-machecoul/65"
+  },
+  {
+    "id": "66",
+    "nom": "l'Adresse Rochefort",
+    "adresse": "Agence GTI AURELIEN RIMBAUD, 17300 Rochefort",
+    "telephone": "05 46 99 09 09",
+    "url": "https://www.ladresse.com/agence/l-adresse-rochefort/66"
+  },
+  {
+    "id": "67",
+    "nom": "l'Adresse AIGUE MARINE IMMOBILIER",
+    "adresse": "238 impasse du couchant BP 38, 34280 La Grande-Motte",
+    "telephone": "04 67 56 41 30",
+    "url": "https://www.ladresse.com/agence/l-adresse-aigue-marine-immobilier/67"
+  },
+  {
+    "id": "68",
+    "nom": "l'Adresse GRAND PAVOIS IMMOBILIER",
+    "adresse": "26 quai Georges Pompidou BP 38, 34280 La Grande-Motte",
+    "telephone": "04 67 56 43 33",
+    "url": "https://www.ladresse.com/agence/l-adresse-grand-pavois-immobilier/68"
+  },
+  {
+    "id": "69",
+    "nom": "l'Adresse - IMMO VAUVERT",
+    "adresse": "145 Avenue de la Condamine Résidence le Valvert, 30600 Vauvert",
+    "telephone": "04 66 53 11 02",
+    "url": "https://www.ladresse.com/agence/l-adresse-immo-vauvert/69"
+  },
+  {
+    "id": "70",
+    "nom": "l'Adresse - Efficience Montpellier Saint Roch",
+    "adresse": "1 Place Rondelet, 34000 Montpellier",
+    "telephone": "09 87 52 53 35",
+    "url": "https://www.ladresse.com/agence/l-adresse-efficience-montpellier-saint-roch/70"
+  },
+  {
+    "id": "71",
+    "nom": "l'Adresse Saint Philbert de grand lieu",
+    "adresse": "2 Place de l'Eglise, 44310 Saint-Philbert-de-Grand-Lieu",
+    "telephone": "02 52 70 01 19",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-philbert-de-grand-lieu/71"
+  },
+  {
+    "id": "72",
+    "nom": "l'Adresse Aussonne",
+    "adresse": "225 avenue de la République, 31840 Aussonne",
+    "telephone": "05 34 59 24 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-aussonne/72"
+  },
+  {
+    "id": "74",
+    "nom": "L'ADRESSE",
+    "adresse": "10 rue Georges Clémenceau, 41200 Romorantin-Lanthenay",
+    "telephone": "02 54 76 77 59",
+    "url": "https://www.ladresse.com/agence/l-adresse/74"
+  },
+  {
+    "id": "75",
+    "nom": "l'Adresse Cambronne Paris 15",
+    "adresse": "110 rue Cambronne, 75015 Paris 15",
+    "telephone": "01 43 70 22 32",
+    "url": "https://www.ladresse.com/agence/l-adresse-cambronne-paris-15/75"
+  },
+  {
+    "id": "76",
+    "nom": "l'Adresse - MONTRICHARD",
+    "adresse": "2 Rue nationale, 41400 Montrichard Val de Cher",
+    "telephone": "02 54 32 99 99",
+    "url": "https://www.ladresse.com/agence/l-adresse-montrichard/76"
+  },
+  {
+    "id": "77",
+    "nom": "l'Adresse MAISONS-ALFORT",
+    "adresse": "8 avenue de la République, 94700 Maisons-Alfort",
+    "telephone": "01 45 18 02 02",
+    "url": "https://www.ladresse.com/agence/l-adresse-maisons-alfort/77"
+  },
+  {
+    "id": "79",
+    "nom": "l'Adresse - Lamotte Beuvron",
+    "adresse": "35 avenue de l'Hôtel de Ville, 41600 Lamotte-Beuvron",
+    "telephone": "02 54 83 40 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-lamotte-beuvron/79"
+  },
+  {
+    "id": "80",
+    "nom": "l'Adresse - Pontoise",
+    "adresse": "31 Place du petit Martroy, 95300 Pontoise",
+    "telephone": "01 84 28 07 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-pontoise/80"
+  },
+  {
+    "id": "81",
+    "nom": "l'Adresse - BLERE",
+    "adresse": "46 rue du pont, 37150 Bléré",
+    "telephone": "02 47 23 57 57",
+    "url": "https://www.ladresse.com/agence/l-adresse-blere/81"
+  },
+  {
+    "id": "83",
+    "nom": "l'Adresse PIERRE ET PATRIMOINE Evreux",
+    "adresse": "13 bis Rue du Général Leclerc, 27000 Évreux",
+    "telephone": "02 32 38 21 81",
+    "url": "https://www.ladresse.com/agence/l-adresse-pierre-et-patrimoine-evreux/83"
+  },
+  {
+    "id": "84",
+    "nom": "l'Adresse - La Barre de Monts",
+    "adresse": "51 Avenue de l'Estacade, 85550 La Barre-de-Monts",
+    "telephone": "02 51 68 52 76",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-barre-de-monts/84"
+  },
+  {
+    "id": "85",
+    "nom": "l'Adresse - Challans D'elbée",
+    "adresse": "1, Square d'Elbée, 85300 Challans",
+    "telephone": "02 51 93 36 70",
+    "url": "https://www.ladresse.com/agence/l-adresse-challans-d-elbee/85"
+  },
+  {
+    "id": "86",
+    "nom": "l'Adresse Cholet - côté Cholet immobilier",
+    "adresse": "1 Boulevard Gustave Richard, 49300 Cholet",
+    "telephone": "02 41 63 13 79",
+    "url": "https://www.ladresse.com/agence/l-adresse-cholet-cote-cholet-immobilier/86"
+  },
+  {
+    "id": "87",
+    "nom": "l'Adresse BRIO IMMOBILIER - Balaruc",
+    "adresse": "1 rue de la Paix, 34540 Balaruc-les-Bains",
+    "telephone": "04 67 53 77 14",
+    "url": "https://www.ladresse.com/agence/l-adresse-brio-immobilier-balaruc/87"
+  },
+  {
+    "id": "88",
+    "nom": "l'Adresse PATRICK LE BERRE IMMOBILIER",
+    "adresse": "11 rue des Glénan, Beg-Meil, 29170 Fouesnant",
+    "telephone": "02 98 87 04 80",
+    "url": "https://www.ladresse.com/agence/l-adresse-patrick-le-berre-immobilier/88"
+  },
+  {
+    "id": "90",
+    "nom": "l'Adresse CL BOILLET IMMOBILIER",
+    "adresse": "18, Rue des Frères Planquais, 27140 Gisors",
+    "telephone": "02 32 55 14 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-cl-boillet-immobilier/90"
+  },
+  {
+    "id": "91",
+    "nom": "l'Adresse BOILLET IMMOBILIER",
+    "adresse": "14 rue du Maréchal Foch, 27150 Étrépagny",
+    "telephone": "02 32 55 60 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-boillet-immobilier/91"
+  },
+  {
+    "id": "92",
+    "nom": "l'Adresse BOILLET IMMOBILIER",
+    "adresse": "1 rue de Gisors, 95750 Chars",
+    "telephone": "01 34 67 57 57",
+    "url": "https://www.ladresse.com/agence/l-adresse-boillet-immobilier/92"
+  },
+  {
+    "id": "94",
+    "nom": "l'Adresse - BM TRANSACTIONS",
+    "adresse": "9 rue du maréchal Foch, 78250 Meulan-en-Yvelines",
+    "telephone": "01 34 92 93 59",
+    "url": "https://www.ladresse.com/agence/l-adresse-bm-transactions/94"
+  },
+  {
+    "id": "95",
+    "nom": "l'Adresse BDS AZUR - LE PRADET",
+    "adresse": "165 Avenue de la 1ère DFL, 83220 Le Pradet",
+    "telephone": "04 94 21 72 74",
+    "url": "https://www.ladresse.com/agence/l-adresse-bds-azur-le-pradet/95"
+  },
+  {
+    "id": "99",
+    "nom": "l'Adresse - Kremlin",
+    "adresse": "31 rue du Général Leclerc, 94270 Le Kremlin-Bicêtre",
+    "telephone": "01 49 59 33 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-kremlin/99"
+  },
+  {
+    "id": "101",
+    "nom": "l'Adresse BH IMMOBILIER",
+    "adresse": "43 avenue de Toulouse, 31320 Castanet-Tolosan",
+    "telephone": "05 34 43 42 03",
+    "url": "https://www.ladresse.com/agence/l-adresse-bh-immobilier/101"
+  },
+  {
+    "id": "102",
+    "nom": "L'ADRESSE GAÏA IMMOBILIER",
+    "adresse": "3 avenue de Pezenas, 34140 Mèze",
+    "telephone": "04 67 78 85 36",
+    "url": "https://www.ladresse.com/agence/l-adresse-gaia-immobilier/102"
+  },
+  {
+    "id": "104",
+    "nom": "l'Adresse VINEUIL",
+    "adresse": "32 Place du 11 Novembre, 41350 Vineuil",
+    "telephone": "02 54 50 01 01",
+    "url": "https://www.ladresse.com/agence/l-adresse-vineuil/104"
+  },
+  {
+    "id": "105",
+    "nom": "l'Adresse CABINET CHESNEAU - ORLEANS",
+    "adresse": "28 rue Jeanne d'Arc, 45000 Orléans",
+    "telephone": "02 38 59 95 75",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-chesneau-orleans/105"
+  },
+  {
+    "id": "106",
+    "nom": "l'Adresse - Albi Patrimoine Immobilier",
+    "adresse": "23 bis Boulevard Edouard Andrieu, 81000 Albi",
+    "telephone": "05 63 36 40 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-albi-patrimoine-immobilier/106"
+  },
+  {
+    "id": "107",
+    "nom": "l'Adresse - BLOIS",
+    "adresse": "8 rue Denis Papin, 41000 Blois",
+    "telephone": "02 54 56 01 01",
+    "url": "https://www.ladresse.com/agence/l-adresse-blois/107"
+  },
+  {
+    "id": "108",
+    "nom": "l'Adresse Claire B Immobilier",
+    "adresse": "17 rue du Pont Vieil, 31780 Castelginest",
+    "telephone": "05 61 45 16 69",
+    "url": "https://www.ladresse.com/agence/l-adresse-claire-b-immobilier/108"
+  },
+  {
+    "id": "110",
+    "nom": "l'Adresse PARIS OBERKAMPF",
+    "adresse": "124, Boulevard Richard Lenoir, 75011 Paris 11",
+    "telephone": "01 81 69 76 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-oberkampf/110"
+  },
+  {
+    "id": "111",
+    "nom": "l'Adresse PALAISEAU - Agence du Grand Paris",
+    "adresse": "280 Rue de Paris,, 91120 Palaiseau",
+    "telephone": "01 69 75 20 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-palaiseau-agence-du-grand-paris/111"
+  },
+  {
+    "id": "112",
+    "nom": "l'Adresse CHILLY-MAZARIN - Agence de l'Avenir",
+    "adresse": "30 Avenue Pierre Brossolette,, 91380 Chilly-Mazarin",
+    "telephone": "01 69 09 09 85",
+    "url": "https://www.ladresse.com/agence/l-adresse-chilly-mazarin-agence-de-l-avenir/112"
+  },
+  {
+    "id": "113",
+    "nom": "l'Adresse - Agence la Corniche",
+    "adresse": "1481, promenade Maréchal Leclerc, 34200 Sète",
+    "telephone": "04 67 51 60 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-la-corniche/113"
+  },
+  {
+    "id": "114",
+    "nom": "l'Adresse - NATERA IMMOBILIER",
+    "adresse": "2 Route de Montpellier, 34790 Grabels",
+    "telephone": "04 67 41 45 45",
+    "url": "https://www.ladresse.com/agence/l-adresse-natera-immobilier/114"
+  },
+  {
+    "id": "116",
+    "nom": "l'Adresse - Bedarieux",
+    "adresse": "4 rue de la République, 34600 Bédarieux",
+    "telephone": "04 67 23 18 23",
+    "url": "https://www.ladresse.com/agence/l-adresse-bedarieux/116"
+  },
+  {
+    "id": "118",
+    "nom": "l'Adresse - AGENCE DU MIDI",
+    "adresse": "Bd de la Libération (Esplanade), 30000 Nîmes",
+    "telephone": "04 66 36 15 72",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-du-midi/118"
+  },
+  {
+    "id": "119",
+    "nom": "l'Adresse - AGENCE DU SOLEIL LEVANT",
+    "adresse": "22 Rue de la Montcient, 95450 Seraincourt",
+    "telephone": "01 34 75 41 07",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-du-soleil-levant/119"
+  },
+  {
+    "id": "120",
+    "nom": "l'Adresse POISSY",
+    "adresse": "28 rue du Général de Gaulle, 78300 Poissy",
+    "telephone": "01 39 11 23 65",
+    "url": "https://www.ladresse.com/agence/l-adresse-poissy/120"
+  },
+  {
+    "id": "121",
+    "nom": "l'Adresse Chaville Viroflay",
+    "adresse": "47 rue Anatole France, 92370 Chaville",
+    "telephone": "01 47 50 20 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-chaville-viroflay/121"
+  },
+  {
+    "id": "122",
+    "nom": "l'Adresse ONZAIN",
+    "adresse": "22 Grande Rue, 41150 Onzain",
+    "telephone": "02 54 20 88 89",
+    "url": "https://www.ladresse.com/agence/l-adresse-onzain/122"
+  },
+  {
+    "id": "123",
+    "nom": "l'Adresse AGENCE DE NOTRE DAME",
+    "adresse": "5, Rue de Saint Jean, 85690 Notre-Dame-de-Monts",
+    "telephone": "02 52 70 01 16",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-notre-dame/123"
+  },
+  {
+    "id": "124",
+    "nom": "l'Adresse Agence de l'Esplanade",
+    "adresse": "261, Esplanade de la Mer, 85270 Saint-Hilaire-de-Riez",
+    "telephone": "02 51 58 01 74",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-l-esplanade/124"
+  },
+  {
+    "id": "125",
+    "nom": "l'Adresse AGENCE DE L'ESPLANADE",
+    "adresse": "67, Esplanade de la Mer, 85160 Saint-Jean-de-Monts",
+    "telephone": "02 28 12 02 02",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-l-esplanade/125"
+  },
+  {
+    "id": "126",
+    "nom": "l'Adresse - Challans Centre",
+    "adresse": "6, Place de Gaulle, 85300 Challans",
+    "telephone": "02 52 70 01 15",
+    "url": "https://www.ladresse.com/agence/l-adresse-challans-centre/126"
+  },
+  {
+    "id": "127",
+    "nom": "l'Adresse AUXERRE",
+    "adresse": "112 Rue du Pont, 89000 Auxerre",
+    "telephone": "03 86 48 10 97",
+    "url": "https://www.ladresse.com/agence/l-adresse-auxerre/127"
+  },
+  {
+    "id": "128",
+    "nom": "l'Adresse AGENCE CAENNAISE",
+    "adresse": "15, Place de la Demi Lune, 14000 Caen",
+    "telephone": "02 31 34 00 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-caennaise/128"
+  },
+  {
+    "id": "129",
+    "nom": "l'Adresse Agence Coeur de Ville",
+    "adresse": "1 rue Pasteur, 93160 Noisy-le-Grand",
+    "telephone": "01 43 03 34 17",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-coeur-de-ville/129"
+  },
+  {
+    "id": "130",
+    "nom": "l'Adresse - Louviers",
+    "adresse": "52 rue du Général de Gaulle, 27400 Louviers",
+    "telephone": "02 32 40 70 69",
+    "url": "https://www.ladresse.com/agence/l-adresse-louviers/130"
+  },
+  {
+    "id": "133",
+    "nom": "l'Adresse Paris 7 Las Cases",
+    "adresse": "21 rue Las Cases, 75007 Paris 07",
+    "telephone": "01 44 18 07 07",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-7-las-cases/133"
+  },
+  {
+    "id": "134",
+    "nom": "l'Adresse - Asnières-sur-Seine - Mairie",
+    "adresse": "21 avenue d'Argenteuil, 92600 Asnières-sur-Seine",
+    "telephone": "01 41 32 33 34",
+    "url": "https://www.ladresse.com/agence/l-adresse-asnieres-sur-seine-mairie/134"
+  },
+  {
+    "id": "135",
+    "nom": "l'Adresse - Immoplessis",
+    "adresse": "11 Avenue Aristide Briand, 92350 Le Plessis-Robinson",
+    "telephone": "01 46 30 18 48",
+    "url": "https://www.ladresse.com/agence/l-adresse-immoplessis/135"
+  },
+  {
+    "id": "136",
+    "nom": "l'Adresse LORI - Sainte Geneviève des Bois",
+    "adresse": "26 Avenue Gabriel Péri, 91700 Sainte-Geneviève-des-Bois",
+    "telephone": "01 60 16 01 28",
+    "url": "https://www.ladresse.com/agence/l-adresse-lori-sainte-genevieve-des-bois/136"
+  },
+  {
+    "id": "137",
+    "nom": "l'Adresse - Saint Jean de Luz",
+    "adresse": "19 RUE SOPITE, 64500 Saint-Jean-de-Luz",
+    "telephone": "05 59 51 10 21",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-jean-de-luz/137"
+  },
+  {
+    "id": "138",
+    "nom": "l'Adresse AGENCE DE VAIRES",
+    "adresse": "44 avenue Jean Jaurès, 77360 Vaires-sur-Marne",
+    "telephone": "01 60 08 91 51",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-vaires/138"
+  },
+  {
+    "id": "139",
+    "nom": "l'Adresse IBC - Aiguillon",
+    "adresse": "27 cours Alsace - Lorraine, 47190 Aiguillon",
+    "telephone": "05 53 88 58 77",
+    "url": "https://www.ladresse.com/agence/l-adresse-ibc-aiguillon/139"
+  },
+  {
+    "id": "140",
+    "nom": "l'Adresse - Aubervilliers",
+    "adresse": "10 AVENUE DE LA REPUBLIQUE, 93300 Aubervilliers",
+    "telephone": "01 82 30 33 95",
+    "url": "https://www.ladresse.com/agence/l-adresse-aubervilliers/140"
+  },
+  {
+    "id": "142",
+    "nom": "l'Adresse Caré Immobilier",
+    "adresse": "7 route d'ALBI, 31180 Castelmaurou",
+    "telephone": "05 62 79 52 97",
+    "url": "https://www.ladresse.com/agence/l-adresse-care-immobilier/142"
+  },
+  {
+    "id": "143",
+    "nom": "l'Adresse - Lau des Naïades",
+    "adresse": "11 Bis rue Georges Clémenceau, 85200 Fontenay-le-Comte",
+    "telephone": "02 51 69 30 86",
+    "url": "https://www.ladresse.com/agence/l-adresse-lau-des-naiades/143"
+  },
+  {
+    "id": "144",
+    "nom": "l'Adresse - Dourdan",
+    "adresse": "19 rue de Chartres, 91410 Dourdan",
+    "telephone": "01 64 55 12 12",
+    "url": "https://www.ladresse.com/agence/l-adresse-dourdan/144"
+  },
+  {
+    "id": "145",
+    "nom": "l'Adresse du Canal St Martin - Paris 10",
+    "adresse": "89 quai de Valmy, 75010 Paris 10",
+    "telephone": "01 40 05 01 08",
+    "url": "https://www.ladresse.com/agence/l-adresse-du-canal-st-martin-paris-10/145"
+  },
+  {
+    "id": "147",
+    "nom": "l'Adresse - Saintes",
+    "adresse": "13 rue Saint-Pierre, 17100 Saintes",
+    "telephone": "05 46 98 78 16",
+    "url": "https://www.ladresse.com/agence/l-adresse-saintes/147"
+  },
+  {
+    "id": "148",
+    "nom": "l'Adresse - Fontenay sous Bois",
+    "adresse": "25 place Moreau David, 94120 Fontenay-sous-Bois",
+    "telephone": "01 45 14 13 13",
+    "url": "https://www.ladresse.com/agence/l-adresse-fontenay-sous-bois/148"
+  },
+  {
+    "id": "149",
+    "nom": "l'Adresse La Roche-sur-Yon - Centre-ville",
+    "adresse": "1, rue des Halles, 85000 La Roche-sur-Yon",
+    "telephone": "02 51 37 38 08",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-roche-sur-yon-centre-ville/149"
+  },
+  {
+    "id": "150",
+    "nom": "l'Adresse LA TRANCHE SUR MER",
+    "adresse": "17 Rue Victor Hugo, 85360 La Tranche-sur-Mer",
+    "telephone": "02 51 56 05 05",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-tranche-sur-mer/150"
+  },
+  {
+    "id": "151",
+    "nom": "l'Adresse - Brétignolles sur mer",
+    "adresse": "26 bd du Nord, 85470 Bretignolles-sur-Mer",
+    "telephone": "02 51 90 96 96",
+    "url": "https://www.ladresse.com/agence/l-adresse-bretignolles-sur-mer/151"
+  },
+  {
+    "id": "153",
+    "nom": "l'Adresse TOLBIAC - Paris 13",
+    "adresse": "34 rue de Tolbiac, 75013 Paris 13",
+    "telephone": "01 53 79 19 30",
+    "url": "https://www.ladresse.com/agence/l-adresse-tolbiac-paris-13/153"
+  },
+  {
+    "id": "154",
+    "nom": "l'Adresse NOZAY",
+    "adresse": "6 route de Nantes, 44170 Nozay",
+    "telephone": "02 40 51 49 83",
+    "url": "https://www.ladresse.com/agence/l-adresse-nozay/154"
+  },
+  {
+    "id": "155",
+    "nom": "l'Adresse - Saint Agnant",
+    "adresse": "35 Avenue du Canal de La Bridoire, 17620 Saint-Agnant",
+    "telephone": "05 46 78 19 09",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-agnant/155"
+  },
+  {
+    "id": "156",
+    "nom": "l'Adresse Soissons",
+    "adresse": "15 Rue Georges Muzart, 02200 Soissons",
+    "telephone": "03 23 93 09 91",
+    "url": "https://www.ladresse.com/agence/l-adresse-soissons/156"
+  },
+  {
+    "id": "157",
+    "nom": "l'Adresse LES PORTES DE L'IMMOBILIER BESSIERES",
+    "adresse": "43 bd des Allées, 31660 Bessières",
+    "telephone": "05 61 11 53 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-les-portes-de-l-immobilier-bessieres/157"
+  },
+  {
+    "id": "159",
+    "nom": "l'Adresse - Nice - Carré d'Or",
+    "adresse": "17 Boulevard Victor Hugo, 06000 Nice",
+    "telephone": "04 93 87 72 44",
+    "url": "https://www.ladresse.com/agence/l-adresse-nice-carre-d-or/159"
+  },
+  {
+    "id": "160",
+    "nom": "l'Adresse IMMOBILIERE DE LA POSTE",
+    "adresse": "13 RUE ROGER SALENGRO, 94450 Limeil-Brévannes",
+    "telephone": "01 56 32 11 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobiliere-de-la-poste/160"
+  },
+  {
+    "id": "162",
+    "nom": "l'Adresse - Tonnay Charente - Philippe BABIN",
+    "adresse": "21 Avenue d'Aunis, 17430 Tonnay-Charente",
+    "telephone": "05 46 53 09 74",
+    "url": "https://www.ladresse.com/agence/l-adresse-tonnay-charente-philippe-babin/162"
+  },
+  {
+    "id": "165",
+    "nom": "l'Adresse 2B IMMOBILIER",
+    "adresse": "1 RUE CHARLES GOUNOD, 95280 Jouy-le-Moutier",
+    "telephone": "01 30 75 30 29",
+    "url": "https://www.ladresse.com/agence/l-adresse-2b-immobilier/165"
+  },
+  {
+    "id": "166",
+    "nom": "l'Adresse Bussy",
+    "adresse": "12 avenue du Général de Gaulle, 77600 Bussy-Saint-Georges",
+    "telephone": "01 64 66 44 44",
+    "url": "https://www.ladresse.com/agence/l-adresse-bussy/166"
+  },
+  {
+    "id": "167",
+    "nom": "l'Adresse Paris Nation",
+    "adresse": "284 Boulevard Voltaire, 75011 Paris 11",
+    "telephone": "01 81 69 56 30",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-nation/167"
+  },
+  {
+    "id": "168",
+    "nom": "l'Adresse NANTES-ORVAULT",
+    "adresse": "20 Avenue Alexandre Goupil, 44700 Orvault",
+    "telephone": "02 51 78 71 56",
+    "url": "https://www.ladresse.com/agence/l-adresse-nantes-orvault/168"
+  },
+  {
+    "id": "169",
+    "nom": "l'Adresse LONGEVILLE SUR MER",
+    "adresse": "46 bis rue de l'Océan, 85560 Longeville-sur-Mer",
+    "telephone": "02 51 90 35 92",
+    "url": "https://www.ladresse.com/agence/l-adresse-longeville-sur-mer/169"
+  },
+  {
+    "id": "170",
+    "nom": "l'Adresse - Les Achards",
+    "adresse": "28 av Georges Clémenceau-la Mothe Achard, 85150 Les Achards",
+    "telephone": "02 51 90 96 97",
+    "url": "https://www.ladresse.com/agence/l-adresse-les-achards/170"
+  },
+  {
+    "id": "173",
+    "nom": "l'Adresse - 2B TRANSACTIONS",
+    "adresse": "16 rue du Docteur Duchesne, 76220 Gournay-en-Bray",
+    "telephone": "02 32 89 34 05",
+    "url": "https://www.ladresse.com/agence/l-adresse-2b-transactions/173"
+  },
+  {
+    "id": "174",
+    "nom": "l'Adresse L'IMMO DU MARAIS",
+    "adresse": "22 rue de l'An VI, 85450 Chaillé-les-Marais",
+    "telephone": "02 51 56 72 57",
+    "url": "https://www.ladresse.com/agence/l-adresse-l-immo-du-marais/174"
+  },
+  {
+    "id": "175",
+    "nom": "l'Adresse - AIZENAY",
+    "adresse": "1 Route des Sables, 85190 Aizenay",
+    "telephone": "02 51 43 88 88",
+    "url": "https://www.ladresse.com/agence/l-adresse-aizenay/175"
+  },
+  {
+    "id": "176",
+    "nom": "l'Adresse - IMMO 2000",
+    "adresse": "1 rue du Général de Gaulle, 85800 Saint-Gilles-Croix-de-Vie",
+    "telephone": "02 51 54 10 51",
+    "url": "https://www.ladresse.com/agence/l-adresse-immo-2000/176"
+  },
+  {
+    "id": "177",
+    "nom": "l'Adresse -Le Mesnil Esnard",
+    "adresse": "48 ROUTE DE PARIS, 76240 Le Mesnil-Esnard",
+    "telephone": "02 27 76 25 25",
+    "url": "https://www.ladresse.com/agence/l-adresse-le-mesnil-esnard/177"
+  },
+  {
+    "id": "178",
+    "nom": "l'Adresse - FLEURY SUR ANDELLE",
+    "adresse": "38 rue Pouyer Quertier, 27380 Fleury-sur-Andelle",
+    "telephone": "02 32 48 75 75",
+    "url": "https://www.ladresse.com/agence/l-adresse-fleury-sur-andelle/178"
+  },
+  {
+    "id": "179",
+    "nom": "l'Adresse - Agence Le Bras",
+    "adresse": "63-75, avenue du Maréchal Juin, 06250 Mougins",
+    "telephone": "04 93 75 75 75",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-le-bras/179"
+  },
+  {
+    "id": "181",
+    "nom": "l'Adresse MOUTIERS LES MAUXFAITS",
+    "adresse": "1 Place du Général de Gaulle, 85540 Moutiers-les-Mauxfaits",
+    "telephone": "02 51 40 01 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-moutiers-les-mauxfaits/181"
+  },
+  {
+    "id": "182",
+    "nom": "l'Adresse - GUY ET BERNARD IMMOBILIER",
+    "adresse": "30 place de Beaune, 71100 Chalon-sur-Saône",
+    "telephone": "03 85 90 80 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-guy-et-bernard-immobilier/182"
+  },
+  {
+    "id": "185",
+    "nom": "L'ADRESSE - Schuman by 4 IMMO",
+    "adresse": "129 / 131 Boulevard Schuman, 44300 Nantes",
+    "telephone": "02 40 40 27 27",
+    "url": "https://www.ladresse.com/agence/l-adresse-schuman-by-4-immo/185"
+  },
+  {
+    "id": "186",
+    "nom": "L'ADRESSE - Coeur de Ville by 4IMMO",
+    "adresse": "23 rue du Calvaire, 44000 Nantes",
+    "telephone": "02 40 69 15 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-coeur-de-ville-by-4immo/186"
+  },
+  {
+    "id": "188",
+    "nom": "l'Adresse Château-Renault",
+    "adresse": "134 rue de la République, 37110 Château-Renault",
+    "telephone": "02 47 29 60 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-chateau-renault/188"
+  },
+  {
+    "id": "189",
+    "nom": "l'Adresse ARAGO IMMOBILIER",
+    "adresse": "2 Avenue d'Aquitaine, 85100 Les Sables-d'Olonne",
+    "telephone": "02 51 22 58 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-arago-immobilier/189"
+  },
+  {
+    "id": "190",
+    "nom": "l'Adresse - Agence la Corniche",
+    "adresse": "4, corniche de Neuburg, 34200 Sète",
+    "telephone": "04 67 51 60 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-la-corniche/190"
+  },
+  {
+    "id": "191",
+    "nom": "l'Adresse - Agence le Dauphin",
+    "adresse": "8, quai de la résistance, 34200 Sète",
+    "telephone": "04 67 74 82 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-le-dauphin/191"
+  },
+  {
+    "id": "193",
+    "nom": "l'Adresse ALV CONSEILS",
+    "adresse": "83 rue de Bellevue, 92100 Boulogne-Billancourt",
+    "telephone": "01 80 88 52 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-alv-conseils/193"
+  },
+  {
+    "id": "194",
+    "nom": "l'Adresse Toulouse Saint-Cyprien",
+    "adresse": "40 Allée Charles de Fitte, 31300 Toulouse",
+    "telephone": "05 62 48 61 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-toulouse-saint-cyprien/194"
+  },
+  {
+    "id": "196",
+    "nom": "l'Adresse immobilier Montgeron",
+    "adresse": "97 avenue de la République, 91230 Montgeron",
+    "telephone": "01 69 40 18 18",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-montgeron/196"
+  },
+  {
+    "id": "197",
+    "nom": "l'Adresse Agence de la Mairie",
+    "adresse": "17 Bis rue Aristide Briand, 91150 Étampes",
+    "telephone": "01 69 26 25 25",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-de-la-mairie/197"
+  },
+  {
+    "id": "198",
+    "nom": "l'Adresse Agence du Centre Ville",
+    "adresse": "15 Grande Rue, 91580 Étréchy",
+    "telephone": "01 69 26 17 17",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-du-centre-ville/198"
+  },
+  {
+    "id": "199",
+    "nom": "l'Adresse ARPAJON",
+    "adresse": "54 Grande Rue, 91290 Arpajon",
+    "telephone": "01 64 56 06 06",
+    "url": "https://www.ladresse.com/agence/l-adresse-arpajon/199"
+  },
+  {
+    "id": "202",
+    "nom": "l'Adresse - Montauban",
+    "adresse": "8 Rue Jean Monnet, 82000 Montauban",
+    "telephone": "05 63 91 62 62",
+    "url": "https://www.ladresse.com/agence/l-adresse-montauban/202"
+  },
+  {
+    "id": "203",
+    "nom": "l'Adresse Saint Félix by Coudray Lorraine",
+    "adresse": "112 Boulevard Eugène Orieux, 44000 Nantes",
+    "telephone": "02 40 74 00 44",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-felix-by-coudray-lorraine/203"
+  },
+  {
+    "id": "204",
+    "nom": "l'Adresse ALFORTVILLE",
+    "adresse": "125 rue Paul Vaillant Couturier, 94140 Alfortville",
+    "telephone": "01 41 79 05 18",
+    "url": "https://www.ladresse.com/agence/l-adresse-alfortville/204"
+  },
+  {
+    "id": "206",
+    "nom": "l'Adresse ADJ GESTION",
+    "adresse": "15 avenue du Général Galliéni, 94340 Joinville-le-Pont",
+    "telephone": "01 48 83 46 66",
+    "url": "https://www.ladresse.com/agence/l-adresse-adj-gestion/206"
+  },
+  {
+    "id": "208",
+    "nom": "l'Adresse STEFA",
+    "adresse": "57, rue de Stalingrad - BP 54, 95120 Ermont",
+    "telephone": "01 34 44 11 12",
+    "url": "https://www.ladresse.com/agence/l-adresse-stefa/208"
+  },
+  {
+    "id": "211",
+    "nom": "l'Adresse - Fresnes Immobilier",
+    "adresse": "1, rue Maurice Ténine, 94260 Fresnes",
+    "telephone": "01 46 68 50 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-fresnes-immobilier/211"
+  },
+  {
+    "id": "214",
+    "nom": "l'Adresse - Les Angles",
+    "adresse": "2 avenue de Mont Louis - Résidence Plein Soleil, 66210 Les Angles",
+    "telephone": "04 68 04 31 31",
+    "url": "https://www.ladresse.com/agence/l-adresse-les-angles/214"
+  },
+  {
+    "id": "215",
+    "nom": "l'Adresse TALMONT SAINT HILAIRE",
+    "adresse": "70 Avenue des Sables, 85440 Talmont-Saint-Hilaire",
+    "telephone": "02 51 20 12 12",
+    "url": "https://www.ladresse.com/agence/l-adresse-talmont-saint-hilaire/215"
+  },
+  {
+    "id": "216",
+    "nom": "l'Adresse La Roche-sur-Yon - Bourg sous la Roche",
+    "adresse": "Place de la Mutualité, 85000 La Roche-sur-Yon",
+    "telephone": "02 28 97 10 29",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-roche-sur-yon-bourg-sous-la-roche/216"
+  },
+  {
+    "id": "217",
+    "nom": "l'Adresse La Roche-sur-Yon- St André d'Ornay",
+    "adresse": "252, rue Roger Salengro, 85000 La Roche-sur-Yon",
+    "telephone": "02 52 70 01 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-roche-sur-yon-st-andre-d-ornay/217"
+  },
+  {
+    "id": "218",
+    "nom": "l'Adresse - Les Herbiers",
+    "adresse": "48, rue du Brandon, 85500 Les Herbiers",
+    "telephone": "02 51 66 80 61",
+    "url": "https://www.ladresse.com/agence/l-adresse-les-herbiers/218"
+  },
+  {
+    "id": "219",
+    "nom": "l'Adresse Agence 124 Immobilier",
+    "adresse": "10 bd Carnot, 32600 L'Isle-Jourdain",
+    "telephone": "05 62 07 30 98",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-124-immobilier/219"
+  },
+  {
+    "id": "222",
+    "nom": "l'Adresse V2L",
+    "adresse": "53 rue Maurice Berteaux, 78700 Conflans-Sainte-Honorine",
+    "telephone": "01 39 72 00 99",
+    "url": "https://www.ladresse.com/agence/l-adresse-v2l/222"
+  },
+  {
+    "id": "225",
+    "nom": "l'Adresse ROUEN",
+    "adresse": "13 avenue de Bretagne, 76100 Rouen",
+    "telephone": "02 35 36 50 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-rouen/225"
+  },
+  {
+    "id": "227",
+    "nom": "l'Adresse CABINET CHESNEAU FAY",
+    "adresse": "1, Rue Notre Dame, 45450 Fay-aux-Loges",
+    "telephone": "02 38 59 52 53",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-chesneau-fay/227"
+  },
+  {
+    "id": "228",
+    "nom": "l'Adresse CABINET CHESNEAU NEUVILLE AUX BOIS",
+    "adresse": "23 place du Général Leclerc, 45170 Neuville-aux-Bois",
+    "telephone": "02 38 75 55 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-chesneau-neuville-aux-bois/228"
+  },
+  {
+    "id": "229",
+    "nom": "l'Adresse CABINET CHESNEAU - SAINT JEAN DE BRAYE",
+    "adresse": "160 rue Jean Zay, 45800 Saint-Jean-de-Braye",
+    "telephone": "02 38 61 65 35",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-chesneau-saint-jean-de-braye/229"
+  },
+  {
+    "id": "231",
+    "nom": "l'Adresse CABINET CHESNEAU - CHÉCY",
+    "adresse": "46 Avenue de Gien, 45430 Chécy",
+    "telephone": "02 38 22 27 77",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-chesneau-checy/231"
+  },
+  {
+    "id": "233",
+    "nom": "l'Adresse C.E.C CESSOLE",
+    "adresse": "93 AVENUE CYRILLE BESSET, 06100 Nice",
+    "telephone": "04 97 07 07 70",
+    "url": "https://www.ladresse.com/agence/l-adresse-c-e-c-cessole/233"
+  },
+  {
+    "id": "234",
+    "nom": "l'Adresse - Agence Antony Parc",
+    "adresse": "8 rue Adolphe Pajeaud, 92160 Antony",
+    "telephone": "01 75 49 91 30",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-antony-parc/234"
+  },
+  {
+    "id": "235",
+    "nom": "l'Adresse - Agence Antony N20",
+    "adresse": "174 av. de la division Leclerc, 92160 Antony",
+    "telephone": "01 84 19 80 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-agence-antony-n20/235"
+  },
+  {
+    "id": "236",
+    "nom": "l'Adresse - GIF SUR YVETTE CHEVRY",
+    "adresse": "7 place de Chevry, 91190 Gif-sur-Yvette",
+    "telephone": "01 60 12 29 29",
+    "url": "https://www.ladresse.com/agence/l-adresse-gif-sur-yvette-chevry/236"
+  },
+  {
+    "id": "237",
+    "nom": "l'Adresse CABINET CHESNEAU - JARGEAU",
+    "adresse": "4 boulevard Carnot, 45150 Jargeau",
+    "telephone": "02 38 46 10 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-chesneau-jargeau/237"
+  },
+  {
+    "id": "238",
+    "nom": "l'Adresse L'immobilière Pariroc",
+    "adresse": "90 avenue de la division Leclerc, 93350 Le Bourget",
+    "telephone": "01 48 37 63 30",
+    "url": "https://www.ladresse.com/agence/l-adresse-l-immobiliere-pariroc/238"
+  },
+  {
+    "id": "239",
+    "nom": "l'Adresse Beaufort",
+    "adresse": "23 rue de l'Hôtel de Ville, 49250 Beaufort-en-Anjou",
+    "telephone": "02 41 47 02 02",
+    "url": "https://www.ladresse.com/agence/l-adresse-beaufort/239"
+  },
+  {
+    "id": "240",
+    "nom": "l'Adresse - FONTENAY SOUS BOIS",
+    "adresse": "49 rue Roublot, 94120 Fontenay-sous-Bois",
+    "telephone": "01 43 94 13 13",
+    "url": "https://www.ladresse.com/agence/l-adresse-fontenay-sous-bois/240"
+  },
+  {
+    "id": "241",
+    "nom": "l'Adresse Angers Pasteur",
+    "adresse": "151 avenue Pasteur, 49100 Angers",
+    "telephone": "02 41 69 64 17",
+    "url": "https://www.ladresse.com/agence/l-adresse-angers-pasteur/241"
+  },
+  {
+    "id": "242",
+    "nom": "l'Adresse Rue des Lices",
+    "adresse": "41 bis Rue des Lices, 49100 Angers",
+    "telephone": "02 41 87 55 25",
+    "url": "https://www.ladresse.com/agence/l-adresse-rue-des-lices/242"
+  },
+  {
+    "id": "243",
+    "nom": "l'Adresse Saint Barthélémy d'Anjou",
+    "adresse": "4 route d'Angers, 49124 Saint-Barthélemy-d'Anjou",
+    "telephone": "02 41 27 08 48",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-barthelemy-d-anjou/243"
+  },
+  {
+    "id": "244",
+    "nom": "l'Adresse Trélazé",
+    "adresse": "184 rue Ferdinand Vest, 49800 Trélazé",
+    "telephone": "02 41 05 05 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-trelaze/244"
+  },
+  {
+    "id": "245",
+    "nom": "l'Adresse Thouarcé",
+    "adresse": "3 Boulevard de la République, 49380 Thouarcé",
+    "telephone": "02 41 80 92 33",
+    "url": "https://www.ladresse.com/agence/l-adresse-thouarce/245"
+  },
+  {
+    "id": "246",
+    "nom": "l'Adresse Doué en Anjou",
+    "adresse": "16 rue Foullon, 49700 Doué-la-Fontaine",
+    "telephone": "02 41 59 89 51",
+    "url": "https://www.ladresse.com/agence/l-adresse-doue-en-anjou/246"
+  },
+  {
+    "id": "247",
+    "nom": "l'Adresse Chalonnes",
+    "adresse": "47 rue du Vieux Pont, 49290 Chalonnes-sur-Loire",
+    "telephone": "02 41 66 58 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-chalonnes/247"
+  },
+  {
+    "id": "248",
+    "nom": "l'Adresse Chateauneuf",
+    "adresse": "Centre Commercial Ma Campagne, 49330 Châteauneuf-sur-Sarthe",
+    "telephone": "02 41 18 59 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-chateauneuf/248"
+  },
+  {
+    "id": "249",
+    "nom": "l'Adresse Le Lion d'Angers",
+    "adresse": "8 rue de Général Leclerc, 49220 Le Lion-d'Angers",
+    "telephone": "02 41 95 17 17",
+    "url": "https://www.ladresse.com/agence/l-adresse-le-lion-d-angers/249"
+  },
+  {
+    "id": "250",
+    "nom": "l'Adresse Segré",
+    "adresse": "37 rue Victor Hugo, 49500 Segré",
+    "telephone": "02 41 94 80 70",
+    "url": "https://www.ladresse.com/agence/l-adresse-segre/250"
+  },
+  {
+    "id": "251",
+    "nom": "l'Adresse Montreuil Juigné",
+    "adresse": "3 rue David d'Angers, 49460 Montreuil-Juigné",
+    "telephone": "02 41 87 03 72",
+    "url": "https://www.ladresse.com/agence/l-adresse-montreuil-juigne/251"
+  },
+  {
+    "id": "252",
+    "nom": "l'Adresse Tiercé",
+    "adresse": "19 rue du Bourg Joly, 49125 Tiercé",
+    "telephone": "02 41 86 97 88",
+    "url": "https://www.ladresse.com/agence/l-adresse-tierce/252"
+  },
+  {
+    "id": "253",
+    "nom": "l'Adresse Laval",
+    "adresse": "50 Boulevard Félix Grat, 53000 Laval",
+    "telephone": "02 53 74 55 54",
+    "url": "https://www.ladresse.com/agence/l-adresse-laval/253"
+  },
+  {
+    "id": "254",
+    "nom": "l'Adresse Château-Gontier",
+    "adresse": "9 Place de la République, 53200 Château-Gontier",
+    "telephone": "02 43 06 15 96",
+    "url": "https://www.ladresse.com/agence/l-adresse-chateau-gontier/254"
+  },
+  {
+    "id": "256",
+    "nom": "l'Adresse - GIF SUR YVETTE VALLEE",
+    "adresse": "25 Rue Alphonse Pecard, 91190 Gif-sur-Yvette",
+    "telephone": "01 69 86 06 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-gif-sur-yvette-vallee/256"
+  },
+  {
+    "id": "257",
+    "nom": "l'Adresse BRIIS SOUS FORGES",
+    "adresse": "14 place de la liberation, 91640 Briis-sous-Forges",
+    "telephone": "01 64 90 55 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-briis-sous-forges/257"
+  },
+  {
+    "id": "258",
+    "nom": "l'Adresse LAU DU MARAIS",
+    "adresse": "29 rue Gambetta, 17230 Marans",
+    "telephone": "05 46 69 41 61",
+    "url": "https://www.ladresse.com/agence/l-adresse-lau-du-marais/258"
+  },
+  {
+    "id": "259",
+    "nom": "l'Adresse Saint Médard en Jalles",
+    "adresse": "80 A avenue Montaigne, 33160 Saint-Médard-en-Jalles",
+    "telephone": "05 56 14 21 04",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-medard-en-jalles/259"
+  },
+  {
+    "id": "260",
+    "nom": "l'Adresse Carquefou",
+    "adresse": "2 rue Harrouys, 44470 Carquefou",
+    "telephone": "02 40 52 75 75",
+    "url": "https://www.ladresse.com/agence/l-adresse-carquefou/260"
+  },
+  {
+    "id": "264",
+    "nom": "l'Adresse PRAYSSAC - Agence FAVORY",
+    "adresse": "2 Avenue du Colonel Pardes, 46220 Prayssac",
+    "telephone": "05 65 36 54 19",
+    "url": "https://www.ladresse.com/agence/l-adresse-prayssac-agence-favory/264"
+  },
+  {
+    "id": "266",
+    "nom": "l'Adresse Tournon d Agenais",
+    "adresse": "35 route d'AGEN, 47370 Tournon-d'Agenais",
+    "telephone": "05 24 32 40 82",
+    "url": "https://www.ladresse.com/agence/l-adresse-tournon-d-agenais/266"
+  },
+  {
+    "id": "267",
+    "nom": "l'Adresse Montaigu",
+    "adresse": "54 rue Saint Nicolas, 85600 Montaigu",
+    "telephone": "02 49 62 17 89",
+    "url": "https://www.ladresse.com/agence/l-adresse-montaigu/267"
+  },
+  {
+    "id": "268",
+    "nom": "l'Adresse Cabinet Roulland Cagnes",
+    "adresse": "90 chemin du Val Fleuri, 06800 Cagnes-sur-Mer",
+    "telephone": "07 71 54 24 15",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabinet-roulland-cagnes/268"
+  },
+  {
+    "id": "269",
+    "nom": "l'Adresse- Carmaux Patrimoine Immobilier",
+    "adresse": "1 bis Avenue Jean Jaurès, 81400 Carmaux",
+    "telephone": "05 63 36 40 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-carmaux-patrimoine-immobilier/269"
+  },
+  {
+    "id": "270",
+    "nom": "l'Adresse ACI Ajaccio",
+    "adresse": "44 cours Napoléon, 20000 Ajaccio",
+    "telephone": "04 95 10 33 83",
+    "url": "https://www.ladresse.com/agence/l-adresse-aci-ajaccio/270"
+  },
+  {
+    "id": "271",
+    "nom": "l'Adresse Aero Immobilier",
+    "adresse": "2 Allée de la Corrèze, 31770 Colomiers",
+    "telephone": "05 61 78 51 73",
+    "url": "https://www.ladresse.com/agence/l-adresse-aero-immobilier/271"
+  },
+  {
+    "id": "272",
+    "nom": "l'Adresse BURN & DUBICH Immobilier",
+    "adresse": "46 rue de la République, 68040 Ingersheim",
+    "telephone": "03 89 77 09 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-burn-dubich-immobilier/272"
+  },
+  {
+    "id": "274",
+    "nom": "l'Adresse Suresnes Immobilier",
+    "adresse": "39 Bis bd du Mal de Lattre de Tassigny, 92150 Suresnes",
+    "telephone": "06 11 10 78 13",
+    "url": "https://www.ladresse.com/agence/l-adresse-suresnes-immobilier/274"
+  },
+  {
+    "id": "275",
+    "nom": "L'ADRESSE MASSY VILMORIN",
+    "adresse": "28 Avenue Raymond Aron, 91300 Massy",
+    "telephone": "01 69 53 10 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-massy-vilmorin/275"
+  },
+  {
+    "id": "276",
+    "nom": "l'Adresse - Marly-le-Roi",
+    "adresse": "6 rue Alfred Couturier, 78160 Marly-le-Roi",
+    "telephone": "01 39 17 12 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-marly-le-roi/276"
+  },
+  {
+    "id": "277",
+    "nom": "l'Adresse LA FERTE SAINT AUBIN",
+    "adresse": "57 Rue du Général Leclerc, 45240 La Ferté-Saint-Aubin",
+    "telephone": "02 38 76 65 18",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-ferte-saint-aubin/277"
+  },
+  {
+    "id": "279",
+    "nom": "l'Adresse Jade Immobilier",
+    "adresse": "6, rue de la Mer, 44760 La Bernerie-en-Retz",
+    "telephone": "02 40 82 70 54",
+    "url": "https://www.ladresse.com/agence/l-adresse-jade-immobilier/279"
+  },
+  {
+    "id": "280",
+    "nom": "l'Adresse SAINT PIERRE MONTLIMART",
+    "adresse": "24 Bis Avenue De Bon Air, 49110 Montrevault-sur-Èvre",
+    "telephone": "02 44 09 05 29",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-pierre-montlimart/280"
+  },
+  {
+    "id": "281",
+    "nom": "l'Adresse Angers Doutre",
+    "adresse": "12 Quai Robert Fèvre, 49100 Angers",
+    "telephone": "02 41 96 10 62",
+    "url": "https://www.ladresse.com/agence/l-adresse-angers-doutre/281"
+  },
+  {
+    "id": "284",
+    "nom": "l'Adresse - Les clés de l'immobilier",
+    "adresse": "42 place de la Paix, 40190 Villeneuve-de-Marsan",
+    "telephone": "05 47 87 10 48",
+    "url": "https://www.ladresse.com/agence/l-adresse-les-cles-de-l-immobilier/284"
+  },
+  {
+    "id": "285",
+    "nom": "l'Adresse BOIS D'ARCY",
+    "adresse": "33 avenue Jean Jaurès, 78390 Bois-d'Arcy",
+    "telephone": "01 34 60 43 43",
+    "url": "https://www.ladresse.com/agence/l-adresse-bois-d-arcy/285"
+  },
+  {
+    "id": "286",
+    "nom": "l'Adresse MENNECY VERVILLE",
+    "adresse": "Centre Commercial de la Verville, 91540 Mennecy",
+    "telephone": "01 64 99 79 54",
+    "url": "https://www.ladresse.com/agence/l-adresse-mennecy-verville/286"
+  },
+  {
+    "id": "287",
+    "nom": "l'Adresse MENNECY CENTRE",
+    "adresse": "2, Place de la Mairie, 91540 Mennecy",
+    "telephone": "01 64 57 01 61",
+    "url": "https://www.ladresse.com/agence/l-adresse-mennecy-centre/287"
+  },
+  {
+    "id": "288",
+    "nom": "l'Adresse BALLANCOURT",
+    "adresse": "41, Rue du Général de Gaulle, 91610 Ballancourt-sur-Essonne",
+    "telephone": "01 69 90 00 22",
+    "url": "https://www.ladresse.com/agence/l-adresse-ballancourt/288"
+  },
+  {
+    "id": "289",
+    "nom": "l'Adresse ANJOU-MAINE siège administratif",
+    "adresse": "8 rue de la Claie, 49070 Beaucouzé",
+    "telephone": "02 41 25 05 05",
+    "url": "https://www.ladresse.com/agence/l-adresse-anjou-maine-siege-administratif/289"
+  },
+  {
+    "id": "290",
+    "nom": "l'Adresse - Gaillac Patrimoine Immobilier",
+    "adresse": "40 rue Portal ., 81600 Gaillac",
+    "telephone": "05 63 36 40 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-gaillac-patrimoine-immobilier/290"
+  },
+  {
+    "id": "291",
+    "nom": "l'Adresse ST NAZAIRE",
+    "adresse": "41 Avenue De Gaulle, 44600 Saint-Nazaire",
+    "telephone": "02 51 73 14 70",
+    "url": "https://www.ladresse.com/agence/l-adresse-st-nazaire/291"
+  },
+  {
+    "id": "292",
+    "nom": "l'Adresse Soubise",
+    "adresse": "Agence GTI AURELIEN RIMBAUD, 17780 Soubise",
+    "telephone": "05 17 13 99 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-soubise/292"
+  },
+  {
+    "id": "294",
+    "nom": "l'Adresse Paris 12",
+    "adresse": "39 avenue de Saint Mandé, 75012 Paris 12",
+    "telephone": "01 45 84 42 87",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-12/294"
+  },
+  {
+    "id": "296",
+    "nom": "LE HAVRE",
+    "adresse": "19 Place de l'Hôtel de Ville, 76600 Le Havre",
+    "telephone": "02 35 42 48 87",
+    "url": "https://www.ladresse.com/agence/le-havre/296"
+  },
+  {
+    "id": "300",
+    "nom": "l'Adresse CHATEAU PATRIMOINE",
+    "adresse": "28 RUE ARISTIDE BRIAND, 44110 Châteaubriant",
+    "telephone": "02 72 05 99 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-chateau-patrimoine/300"
+  },
+  {
+    "id": "303",
+    "nom": "l'Adresse - Val D'Europe",
+    "adresse": "24 Avenue Hergé, 77700 Chessy",
+    "telephone": "01 60 04 94 49",
+    "url": "https://www.ladresse.com/agence/l-adresse-val-d-europe/303"
+  },
+  {
+    "id": "304",
+    "nom": "l'Adresse Charollois Immobilier",
+    "adresse": "16, rue Lamartine, 71000 Mâcon",
+    "telephone": "03 85 33 05 71",
+    "url": "https://www.ladresse.com/agence/l-adresse-charollois-immobilier/304"
+  },
+  {
+    "id": "305",
+    "nom": "l'Adresse BASTIA - LUCCIANA",
+    "adresse": "83 Corsu di l'aeroportu Lieu dit Crucetta, 20290 Lucciana",
+    "telephone": "04 95 57 04 33",
+    "url": "https://www.ladresse.com/agence/l-adresse-bastia-lucciana/305"
+  },
+  {
+    "id": "306",
+    "nom": "l'Adresse THIAIS",
+    "adresse": "6 RUE CHEVRE D'AUTREVILLE, 94320 Thiais",
+    "telephone": "01 48 84 36 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-thiais/306"
+  },
+  {
+    "id": "308",
+    "nom": "l'Adresse ST SYLVAIN D'ANJOU",
+    "adresse": "14 Bis rue Emmanuel Voisin, 49480 Saint-Sylvain-d'Anjou",
+    "telephone": "02 41 76 29 89",
+    "url": "https://www.ladresse.com/agence/l-adresse-st-sylvain-d-anjou/308"
+  },
+  {
+    "id": "309",
+    "nom": "l'Adresse Place du Lycée",
+    "adresse": "5 Bis Place du Lycée, 49100 Angers",
+    "telephone": "02 41 05 63 19",
+    "url": "https://www.ladresse.com/agence/l-adresse-place-du-lycee/309"
+  },
+  {
+    "id": "311",
+    "nom": "l'Adresse CERGY LE HAUT",
+    "adresse": "8 Rue de la Lune Corail, 95800 Cergy",
+    "telephone": "01 30 36 46 68",
+    "url": "https://www.ladresse.com/agence/l-adresse-cergy-le-haut/311"
+  },
+  {
+    "id": "314",
+    "nom": "l'Adresse NS ANTIBES IMMOBILIER",
+    "adresse": "22 Boulevard Dugommier, 06600 Antibes",
+    "telephone": "09 72 96 03 74",
+    "url": "https://www.ladresse.com/agence/l-adresse-ns-antibes-immobilier/314"
+  },
+  {
+    "id": "316",
+    "nom": "l'Adresse CHAILLES",
+    "adresse": "84 A rue nationale, 41120 Chailles",
+    "telephone": "02 54 80 62 53",
+    "url": "https://www.ladresse.com/agence/l-adresse-chailles/316"
+  },
+  {
+    "id": "317",
+    "nom": "l'Adresse Paris 16",
+    "adresse": "113, Avenue Mozart, 75016 Paris 16",
+    "telephone": "01 44 30 85 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-16/317"
+  },
+  {
+    "id": "318",
+    "nom": "l'Adresse Romainville",
+    "adresse": "57 avenue de Verdun, 93230 Romainville",
+    "telephone": "01 84 74 25 25",
+    "url": "https://www.ladresse.com/agence/l-adresse-romainville/318"
+  },
+  {
+    "id": "321",
+    "nom": "l'Adresse Pau Palais des Pyrénées",
+    "adresse": "Palais des Pyrénées - 17 Rue Gachet, 64000 Pau",
+    "telephone": "05 59 82 81 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-pau-palais-des-pyrenees/321"
+  },
+  {
+    "id": "323",
+    "nom": "l'Adresse ST-HERBLAIN",
+    "adresse": "14 rue de l'hotel de ville, 44800 Saint-Herblain",
+    "telephone": "02 40 85 60 12",
+    "url": "https://www.ladresse.com/agence/l-adresse-st-herblain/323"
+  },
+  {
+    "id": "326",
+    "nom": "l'Adresse Cannes",
+    "adresse": "10 - 12 Bd de la République, 06400 Cannes",
+    "telephone": "04 93 99 09 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-cannes/326"
+  },
+  {
+    "id": "328",
+    "nom": "l'Adresse Immobilier Soustons",
+    "adresse": "18 RUE DASTE, 40140 Soustons",
+    "telephone": "05 58 89 37 09",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-soustons/328"
+  },
+  {
+    "id": "329",
+    "nom": "l'Adresse BDS AZUR - CARQUEIRANNE",
+    "adresse": "25 avenue de la Gare résidence Le Privilège, 83320 Carqueiranne",
+    "telephone": "04 94 12 95 82",
+    "url": "https://www.ladresse.com/agence/l-adresse-bds-azur-carqueiranne/329"
+  },
+  {
+    "id": "330",
+    "nom": "l'Adresse La Rochelle Cabinet Chesneau",
+    "adresse": "6 rue Amelot, 17000 La Rochelle",
+    "telephone": "05 46 41 93 09",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-rochelle-cabinet-chesneau/330"
+  },
+  {
+    "id": "333",
+    "nom": "l'Adresse Dynamic Immobilier",
+    "adresse": "1 Boulevard des Anciens Combattants d'AFN, 85180 Les Sables-d'Olonne",
+    "telephone": "02 51 96 80 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-dynamic-immobilier/333"
+  },
+  {
+    "id": "334",
+    "nom": "l'Adresse Mayenne",
+    "adresse": "32 rue Saint Martin, 53100 Mayenne",
+    "telephone": "02 43 04 11 22",
+    "url": "https://www.ladresse.com/agence/l-adresse-mayenne/334"
+  },
+  {
+    "id": "335",
+    "nom": "l'Adresse Croix",
+    "adresse": "4 Rue Isaac Holden Crothers, 59170 Croix",
+    "telephone": "03 20 03 41 74",
+    "url": "https://www.ladresse.com/agence/l-adresse-croix/335"
+  },
+  {
+    "id": "336",
+    "nom": "l'Adresse Saint Omer",
+    "adresse": "28 Quai du Haut Pont, 62500 Saint-Omer",
+    "telephone": "03 21 11 98 88",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-omer/336"
+  },
+  {
+    "id": "337",
+    "nom": "l'Adresse Maison du Sud Immobilier Perpignan",
+    "adresse": "6 rue Pierre Rameil, 66000 Perpignan",
+    "telephone": "04 68 92 94 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-maison-du-sud-immobilier-perpignan/337"
+  },
+  {
+    "id": "338",
+    "nom": "L'ADRESSE Zola by Coudray Lorraine",
+    "adresse": "70 rue des Renardières, 44100 Nantes",
+    "telephone": "02 40 48 57 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-zola-by-coudray-lorraine/338"
+  },
+  {
+    "id": "340",
+    "nom": "l'Adresse Wattignies Paris 12",
+    "adresse": "56, rue de Wattignies, 75012 Paris 12",
+    "telephone": "01 43 41 46 63",
+    "url": "https://www.ladresse.com/agence/l-adresse-wattignies-paris-12/340"
+  },
+  {
+    "id": "341",
+    "nom": "l'Adresse Paris 18 Les Abbesses",
+    "adresse": "14, rue Houdon, 75018 Paris 18",
+    "telephone": "01 42 59 45 61",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-18-les-abbesses/341"
+  },
+  {
+    "id": "342",
+    "nom": "l'Adresse Contres",
+    "adresse": "18 rue Pierre-Henry Mauger, 41400 Le Controis-en-Sologne",
+    "telephone": "02 54 58 88 28",
+    "url": "https://www.ladresse.com/agence/l-adresse-contres/342"
+  },
+  {
+    "id": "343",
+    "nom": "l'Adresse Saint Aignan",
+    "adresse": "38 Rue Constant Ragot, 41110 Saint-Aignan",
+    "telephone": "02 54 75 98 97",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-aignan/343"
+  },
+  {
+    "id": "344",
+    "nom": "l'Adresse Maurepas / Elancourt",
+    "adresse": "7 avenue de Langres, 78310 Maurepas",
+    "telephone": "01 30 50 40 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-maurepas-elancourt/344"
+  },
+  {
+    "id": "345",
+    "nom": "l'Adresse Clermont-Ferrand",
+    "adresse": "27 Rue Ballainvilliers, 63000 Clermont-Ferrand",
+    "telephone": "04 73 14 13 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-clermont-ferrand/345"
+  },
+  {
+    "id": "346",
+    "nom": "l'Adresse Vannes",
+    "adresse": "46 Avenue Victor Hugo, 56000 Vannes",
+    "telephone": "02 97 45 50 93",
+    "url": "https://www.ladresse.com/agence/l-adresse-vannes/346"
+  },
+  {
+    "id": "348",
+    "nom": "l'Adresse Chelles Gare",
+    "adresse": "6 place Gasnier Guy, 77500 Chelles",
+    "telephone": "01 60 08 44 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-chelles-gare/348"
+  },
+  {
+    "id": "350",
+    "nom": "l'Adresse Lyon",
+    "adresse": "51bis, Avenue Lacassagne, 69003 Lyon 03",
+    "telephone": "04 72 68 65 21",
+    "url": "https://www.ladresse.com/agence/l-adresse-lyon/350"
+  },
+  {
+    "id": "351",
+    "nom": "l'Adresse 2B IMMOBILIER",
+    "adresse": "50 avenue Gavroche, 95490 Vauréal",
+    "telephone": "01 34 01 12 66",
+    "url": "https://www.ladresse.com/agence/l-adresse-2b-immobilier/351"
+  },
+  {
+    "id": "353",
+    "nom": "IMMO L'ADRESSE",
+    "adresse": "27 rue Sadi Carnot, 54220 Malzéville",
+    "telephone": "03 72 47 27 28",
+    "url": "https://www.ladresse.com/agence/immo-l-adresse/353"
+  },
+  {
+    "id": "354",
+    "nom": "l'Adresse Le Mans Centre",
+    "adresse": "1 place Franklin Roosevelt, 72000 Le Mans",
+    "telephone": "02 43 80 04 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-le-mans-centre/354"
+  },
+  {
+    "id": "355",
+    "nom": "l'Adresse Le Mans Nord",
+    "adresse": "133 Avenue Rhin et Danube, 72000 Le Mans",
+    "telephone": "02 43 20 72 07",
+    "url": "https://www.ladresse.com/agence/l-adresse-le-mans-nord/355"
+  },
+  {
+    "id": "356",
+    "nom": "l'Adresse le Cannet",
+    "adresse": "5 Boulevard Sadi Carnot, 06110 Le Cannet",
+    "telephone": "04 23 32 43 24",
+    "url": "https://www.ladresse.com/agence/l-adresse-le-cannet/356"
+  },
+  {
+    "id": "358",
+    "nom": "l'Adresse Legé",
+    "adresse": "6, rue de la Chaussée, 44650 Legé",
+    "telephone": "02 49 62 42 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-lege/358"
+  },
+  {
+    "id": "361",
+    "nom": "l'Adresse Stena Allauch Marseille 13ème",
+    "adresse": "13 Bd Ange Martin, 13190 Allauch",
+    "telephone": "04 91 05 13 13",
+    "url": "https://www.ladresse.com/agence/l-adresse-stena-allauch-marseille-13eme/361"
+  },
+  {
+    "id": "362",
+    "nom": "l'Adresse La Rochelle - Cabinet Coudert",
+    "adresse": "45, avenue de la Porte Royale, 17000 La Rochelle",
+    "telephone": "05 46 50 55 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-rochelle-cabinet-coudert/362"
+  },
+  {
+    "id": "365",
+    "nom": "l'Adresse Cabestany Perpignan Sud",
+    "adresse": "51 avenue de la Madeleine, 66330 Cabestany",
+    "telephone": "04 68 67 93 77",
+    "url": "https://www.ladresse.com/agence/l-adresse-cabestany-perpignan-sud/365"
+  },
+  {
+    "id": "366",
+    "nom": "l'Adresse Serris - Success immobilier",
+    "adresse": "2, avenue Christian Doppler, 77700 Serris",
+    "telephone": "01 64 17 87 38",
+    "url": "https://www.ladresse.com/agence/l-adresse-serris-success-immobilier/366"
+  },
+  {
+    "id": "367",
+    "nom": "l'Adresse Ustaritz - Pays Basque",
+    "adresse": "32, chemin de St François Xavier,, 64480 Ustaritz",
+    "telephone": "05 24 33 74 97",
+    "url": "https://www.ladresse.com/agence/l-adresse-ustaritz-pays-basque/367"
+  },
+  {
+    "id": "368",
+    "nom": "l'Adresse Chartres",
+    "adresse": "46 BIS , boulevard du Maréchal Foch, 28000 Chartres",
+    "telephone": "02 46 56 66 66",
+    "url": "https://www.ladresse.com/agence/l-adresse-chartres/368"
+  },
+  {
+    "id": "369",
+    "nom": "l'Adresse Paris 11 Voltaire",
+    "adresse": "139, boulevard Voltaire, 75011 Paris 11",
+    "telephone": "01 40 09 52 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-11-voltaire/369"
+  },
+  {
+    "id": "370",
+    "nom": "l'Adresse Mantes-la-Jolie",
+    "adresse": "8, avenue de la République, 78200 Mantes-la-Jolie",
+    "telephone": "01 86 35 10 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-mantes-la-jolie/370"
+  },
+  {
+    "id": "371",
+    "nom": "l'Adresse Annecy",
+    "adresse": "17 rue de la paix, 74000 Annecy",
+    "telephone": "04 50 24 45 96",
+    "url": "https://www.ladresse.com/agence/l-adresse-annecy/371"
+  },
+  {
+    "id": "372",
+    "nom": "l'Adresse Puteaux",
+    "adresse": "75 bis Boulevard Richard Wallace, 92800 Puteaux",
+    "telephone": "01 70 21 87 31",
+    "url": "https://www.ladresse.com/agence/l-adresse-puteaux/372"
+  },
+  {
+    "id": "373",
+    "nom": "l'Adresse Suresnes Centre",
+    "adresse": "4, rue Mont Valérien, 92150 Suresnes",
+    "telephone": "01 70 21 87 34",
+    "url": "https://www.ladresse.com/agence/l-adresse-suresnes-centre/373"
+  },
+  {
+    "id": "374",
+    "nom": "l'Adresse Saint-Germain-en-Laye",
+    "adresse": "69 avenue du Maréchal Foch, 78100 Saint-Germain-en-Laye",
+    "telephone": "01 39 10 66 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-germain-en-laye/374"
+  },
+  {
+    "id": "375",
+    "nom": "l'Adresse Asnières-sur-Seine Gare",
+    "adresse": "19, grande rue Charles de Gaulle, 92600 Asnières-sur-Seine",
+    "telephone": "01 47 94 70 64",
+    "url": "https://www.ladresse.com/agence/l-adresse-asnieres-sur-seine-gare/375"
+  },
+  {
+    "id": "377",
+    "nom": "l'Adresse Nanterre",
+    "adresse": "8, avenue du Maréchal Joffre, 92000 Nanterre",
+    "telephone": "01 47 29 23 58",
+    "url": "https://www.ladresse.com/agence/l-adresse-nanterre/377"
+  },
+  {
+    "id": "378",
+    "nom": "l'Adresse ROCHECORBON - TOURS NORD",
+    "adresse": "51, quai de la Loire, 37210 Rochecorbon",
+    "telephone": "02 47 49 88 81",
+    "url": "https://www.ladresse.com/agence/l-adresse-rochecorbon-tours-nord/378"
+  },
+  {
+    "id": "379",
+    "nom": "l'Adresse de Prestige Paris 7 Bosquet",
+    "adresse": "53, avenue Bosquet, 75007 Paris 07",
+    "telephone": "01 45 01 76 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-de-prestige-paris-7-bosquet/379"
+  },
+  {
+    "id": "380",
+    "nom": "l'Adresse Bordeaux",
+    "adresse": "44 rue Chevalier, 33000 Bordeaux",
+    "telephone": "05 56 33 11 33",
+    "url": "https://www.ladresse.com/agence/l-adresse-bordeaux/380"
+  },
+  {
+    "id": "381",
+    "nom": "l'Adresse Gradignan",
+    "adresse": "1, Place des Augustins, 33170 Gradignan",
+    "telephone": "05 56 33 00 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-gradignan/381"
+  },
+  {
+    "id": "382",
+    "nom": "l'Adresse Lattes - Agence et vous",
+    "adresse": "Grand place d’Aragon, 34970 Lattes",
+    "telephone": "09 51 87 34 34",
+    "url": "https://www.ladresse.com/agence/l-adresse-lattes-agence-et-vous/382"
+  },
+  {
+    "id": "383",
+    "nom": "l'Adresse de Prestige Paris 7 Rue Cler",
+    "adresse": "51 rue Cler, 75007 Paris 07",
+    "telephone": "01 45 01 76 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-de-prestige-paris-7-rue-cler/383"
+  },
+  {
+    "id": "384",
+    "nom": "l'Adresse Immobilier Grand Pau",
+    "adresse": "3 rue Jean-Jacques de Monaix, 64000 Pau",
+    "telephone": "05 59 60 60 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-grand-pau/384"
+  },
+  {
+    "id": "385",
+    "nom": "l'Adresse Marseille 08",
+    "adresse": "67 Boulevard Perier, 13008 Marseille 08",
+    "telephone": "09 83 99 49 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-marseille-08/385"
+  },
+  {
+    "id": "386",
+    "nom": "l'Adresse Marseille 12",
+    "adresse": "20 avenue de Saint Julien, 13012 Marseille 12",
+    "telephone": "04 91 36 19 49",
+    "url": "https://www.ladresse.com/agence/l-adresse-marseille-12/386"
+  },
+  {
+    "id": "387",
+    "nom": "l'Adresse Ploërmel",
+    "adresse": "1, avenue du Docteur Guillois, 56800 Ploërmel",
+    "telephone": "02 97 72 75 87",
+    "url": "https://www.ladresse.com/agence/l-adresse-ploermel/387"
+  },
+  {
+    "id": "388",
+    "nom": "l'Adresse Châteauroux",
+    "adresse": "29 rue de la République, 36000 Châteauroux",
+    "telephone": "02 54 24 23 01",
+    "url": "https://www.ladresse.com/agence/l-adresse-chateauroux/388"
+  },
+  {
+    "id": "389",
+    "nom": "l'Adresse Toulouse Pont des Demoiselles",
+    "adresse": "83 avenue Antoine de Saint Exupéry, 31400 Toulouse",
+    "telephone": "05 61 24 85 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-toulouse-pont-des-demoiselles/389"
+  },
+  {
+    "id": "390",
+    "nom": "l'Adresse Orsay",
+    "adresse": "43, rue Charles de Gaulle, 91400 Orsay",
+    "telephone": "01 69 30 67 99",
+    "url": "https://www.ladresse.com/agence/l-adresse-orsay/390"
+  },
+  {
+    "id": "391",
+    "nom": "l'Adresse Toulouse Côte Pavée",
+    "adresse": "9, avenue Jean Chaubert, 31500 Toulouse",
+    "telephone": "05 61 24 85 54",
+    "url": "https://www.ladresse.com/agence/l-adresse-toulouse-cote-pavee/391"
+  },
+  {
+    "id": "392",
+    "nom": "l'Adresse Amiens",
+    "adresse": "357 Boulevard Saint-Quentin, 80000 Amiens",
+    "telephone": "03 75 00 79 87",
+    "url": "https://www.ladresse.com/agence/l-adresse-amiens/392"
+  },
+  {
+    "id": "393",
+    "nom": "l'Adresse Bourges",
+    "adresse": "1 boulevard de Juranville, 18000 Bourges",
+    "telephone": "02 48 24 48 24",
+    "url": "https://www.ladresse.com/agence/l-adresse-bourges/393"
+  },
+  {
+    "id": "394",
+    "nom": "l'Adresse Grenoble",
+    "adresse": "Neyrpic 9 avenue Frachon 38400 Saint Martin d'hères, 38000 Grenoble",
+    "telephone": "04 76 61 06 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-grenoble/394"
+  },
+  {
+    "id": "395",
+    "nom": "l'Adresse Bègles - Villenave",
+    "adresse": "424 route de Toulouse, 33130 Bègles",
+    "telephone": "05 40 24 92 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-begles-villenave/395"
+  },
+  {
+    "id": "396",
+    "nom": "l'Adresse Rue",
+    "adresse": "22 place Anatole Gosselin, 80120 Rue",
+    "telephone": "03 22 24 65 34",
+    "url": "https://www.ladresse.com/agence/l-adresse-rue/396"
+  },
+  {
+    "id": "397",
+    "nom": "l'Adresse Strasbourg",
+    "adresse": "22 rue d’Ypres, 67000 Strasbourg",
+    "telephone": "03 88 31 59 81",
+    "url": "https://www.ladresse.com/agence/l-adresse-strasbourg/397"
+  },
+  {
+    "id": "398",
+    "nom": "l'Adresse Istres",
+    "adresse": "4 boulevard Léon Jouhaux, 13800 Istres",
+    "telephone": "04 42 55 53 09",
+    "url": "https://www.ladresse.com/agence/l-adresse-istres/398"
+  },
+  {
+    "id": "399",
+    "nom": "l'Adresse Martigues",
+    "adresse": "10 rue Jean Roque, 13500 Martigues",
+    "telephone": "04 42 40 55 30",
+    "url": "https://www.ladresse.com/agence/l-adresse-martigues/399"
+  },
+  {
+    "id": "400",
+    "nom": "l'Adresse Avignon",
+    "adresse": "64 rue Joseph Vernet, 84000 Avignon",
+    "telephone": "04 90 48 18 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-avignon/400"
+  },
+  {
+    "id": "401",
+    "nom": "l'Adresse Metz",
+    "adresse": "5 rue des Messageries, 57000 Metz",
+    "telephone": "03 87 32 15 15",
+    "url": "https://www.ladresse.com/agence/l-adresse-metz/401"
+  },
+  {
+    "id": "402",
+    "nom": "l'Adresse Lézignan-Corbières",
+    "adresse": "17 rue Guynemer, 11200 Lézignan-Corbières",
+    "telephone": "04 11 66 96 15",
+    "url": "https://www.ladresse.com/agence/l-adresse-lezignan-corbieres/402"
+  },
+  {
+    "id": "403",
+    "nom": "l'Adresse immobilier Muret",
+    "adresse": "42 Avenue Jacques Douzans, 31600 Muret",
+    "telephone": "05 32 09 66 50",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-muret/403"
+  },
+  {
+    "id": "404",
+    "nom": "l'Adresse Mandelieu - Canton de Fayence",
+    "adresse": "520 avenue Janvier Passero, 06210 Mandelieu-la-Napoule",
+    "telephone": "04 93 93 15 36",
+    "url": "https://www.ladresse.com/agence/l-adresse-mandelieu-canton-de-fayence/404"
+  },
+  {
+    "id": "405",
+    "nom": "l'Adresse La Ciotat",
+    "adresse": "106, boulevard Jean Jaurès, 13600 La Ciotat",
+    "telephone": "04 42 62 00 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-la-ciotat/405"
+  },
+  {
+    "id": "406",
+    "nom": "l'Adresse Aubagne",
+    "adresse": "Quartier Napollon - 1483 route Nationale 96, 13400 Aubagne",
+    "telephone": "04 42 84 41 40",
+    "url": "https://www.ladresse.com/agence/l-adresse-aubagne/406"
+  },
+  {
+    "id": "407",
+    "nom": "l'Adresse Fourchambault",
+    "adresse": "51, rue Gambetta, 58600 Fourchambault",
+    "telephone": "03 86 90 29 02",
+    "url": "https://www.ladresse.com/agence/l-adresse-fourchambault/407"
+  },
+  {
+    "id": "409",
+    "nom": "l'Adresse Saumur",
+    "adresse": "3, rue de la Tonnelle, 49400 Saumur",
+    "telephone": "02 55 72 00 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-saumur/409"
+  },
+  {
+    "id": "410",
+    "nom": "l'Adresse Athis-Mons",
+    "adresse": "5B, rue Montagne Mons, 91200 Athis-Mons",
+    "telephone": "01 78 84 00 14",
+    "url": "https://www.ladresse.com/agence/l-adresse-athis-mons/410"
+  },
+  {
+    "id": "411",
+    "nom": "l'Adresse Paris 12 Reuilly",
+    "adresse": "81 rue de Reuilly, 75012 Paris 12",
+    "telephone": "01 43 43 00 60",
+    "url": "https://www.ladresse.com/agence/l-adresse-paris-12-reuilly/411"
+  },
+  {
+    "id": "412",
+    "nom": "l'Adresse Garches et Vaucresson",
+    "adresse": "14 avenue Joffre, 92380 Garches",
+    "telephone": "01 47 16 16 22",
+    "url": "https://www.ladresse.com/agence/l-adresse-garches-et-vaucresson/412"
+  },
+  {
+    "id": "413",
+    "nom": "l'Adresse Couëron",
+    "adresse": "12 place Aristide Briand, 44220 Couëron",
+    "telephone": "02 40 85 64 14",
+    "url": "https://www.ladresse.com/agence/l-adresse-coueron/413"
+  },
+  {
+    "id": "414",
+    "nom": "l'Adresse Immobilier - Plaisance du Touch",
+    "adresse": "69 Bis Avenue des Pyrénées, 31830 Plaisance-du-Touch",
+    "telephone": "05 34 56 01 73",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-plaisance-du-touch/414"
+  },
+  {
+    "id": "415",
+    "nom": "l'Adresse Immobilier - Tournefeuille",
+    "adresse": "8 Bd Eugène Montel, 31170 Tournefeuille",
+    "telephone": "05 34 56 01 73",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-tournefeuille/415"
+  },
+  {
+    "id": "416",
+    "nom": "L'ADRESSE IMMOBILIER Myooran NITHI",
+    "adresse": "160 avenue du Général de Gaulle, 77270 Villeparisis",
+    "telephone": "01 64 27 00 15",
+    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-myooran-nithi/416"
+  },
+  {
+    "id": "417",
+    "nom": "l'Adresse Villemomble",
+    "adresse": "38, avenue Outrebon, 93250 Villemomble",
+    "telephone": "01 84 21 11 00",
+    "url": "https://www.ladresse.com/agence/l-adresse-villemomble/417"
+  },
+  {
+    "id": "418",
+    "nom": "l'Adresse Jonzac",
+    "adresse": "18, Place du Marché, 17500 Jonzac",
+    "telephone": "05 46 48 04 41",
+    "url": "https://www.ladresse.com/agence/l-adresse-jonzac/418"
+  },
+  {
+    "id": "419",
+    "nom": "l'Adresse Drancy",
+    "adresse": "56, avenue Marceau, 93700 Drancy",
+    "telephone": "01 41 72 01 89",
+    "url": "https://www.ladresse.com/agence/l-adresse-drancy/419"
+  },
+  {
+    "id": "420",
+    "nom": "l'Adresse Dax",
+    "adresse": "17, cours Gallieni, 40100 Dax",
+    "telephone": "05 58 43 15 31",
+    "url": "https://www.ladresse.com/agence/l-adresse-dax/420"
+  },
+  {
+    "id": "421",
+    "nom": "l'Adresse de Prestige Ciboure Saint Jean de Luz",
+    "adresse": "2, avenue Jean Jaurès, 64500 Ciboure",
+    "telephone": "05 59 15 09 23",
+    "url": "https://www.ladresse.com/agence/l-adresse-de-prestige-ciboure-saint-jean-de-luz/421"
+  },
+  {
+    "id": "422",
+    "nom": "l'Adresse Poitiers",
+    "adresse": "164, avenue du 8 mai 1945, 86000 Poitiers",
+    "telephone": "05 49 39 03 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-poitiers/422"
+  },
+  {
+    "id": "423",
+    "nom": "l'Adresse Saint-Julien-en-Genevois",
+    "adresse": "9 rue Fernand David, 74160 Saint-Julien-en-Genevois",
+    "telephone": "04 50 04 45 67",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-julien-en-genevois/423"
+  },
+  {
+    "id": "424",
+    "nom": "l'Adresse Thionville",
+    "adresse": "51, rue de Verdun, 57180 Terville",
+    "telephone": "03 82 87 77 17",
+    "url": "https://www.ladresse.com/agence/l-adresse-thionville/424"
+  },
+  {
+    "id": "426",
+    "nom": "l'Adresse Thuir",
+    "adresse": "28 boulevard Leon Jean Grégory, 66300 Thuir",
+    "telephone": "04 48 22 08 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-thuir/426"
+  },
+  {
+    "id": "427",
+    "nom": "l'Adresse VALENCE",
+    "adresse": "8 place de la République, 26000 Valence",
+    "telephone": "09 81 15 02 32",
+    "url": "https://www.ladresse.com/agence/l-adresse-valence/427"
+  },
+  {
+    "id": "429",
+    "nom": "l'Adresse CHAMBERY",
+    "adresse": "15 boulevard de la Colonne, 73000 Chambéry",
+    "telephone": "04 79 28 72 14",
+    "url": "https://www.ladresse.com/agence/l-adresse-chambery/429"
+  },
+  {
+    "id": "430",
+    "nom": "L'Adresse MAISONS-LAFFITTE",
+    "adresse": "3 Ter rue de la Muette, 78600 Maisons-Laffitte",
+    "telephone": "01 61 30 00 85",
+    "url": "https://www.ladresse.com/agence/l-adresse-maisons-laffitte/430"
+  },
+  {
+    "id": "431",
+    "nom": "l'Adresse LUNEVILLE",
+    "adresse": "33 Rue de Sarrebourg, 54300 Lunéville",
+    "telephone": "03 83 77 60 32",
+    "url": "https://www.ladresse.com/agence/l-adresse-luneville/431"
+  },
+  {
+    "id": "432",
+    "nom": "l'Adresse à Salon-de-Provence",
+    "adresse": "30 cours Camille Pelletan, 13300 Salon-de-Provence",
+    "telephone": "04 42 05 59 71",
+    "url": "https://www.ladresse.com/agence/l-adresse-a-salon-de-provence/432"
+  },
+  {
+    "id": "433",
+    "nom": "l'Adresse CHATOU",
+    "adresse": "14, avenue du Maréchal Foch, 78400 Chatou",
+    "telephone": "01 61 30 51 20",
+    "url": "https://www.ladresse.com/agence/l-adresse-chatou/433"
+  },
+  {
+    "id": "434",
+    "nom": "L'ADRESSE Vinon sur Verdon",
+    "adresse": "555 Avenue de la Republique, 83560 Vinon-sur-Verdon",
+    "telephone": "07 69 36 45 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-vinon-sur-verdon/434"
+  },
+  {
+    "id": "435",
+    "nom": "l'Adresse MANOSQUE",
+    "adresse": "26 avenue Jean Giono, 04100 Manosque",
+    "telephone": "07 69 36 45 55",
+    "url": "https://www.ladresse.com/agence/l-adresse-manosque/435"
+  },
+  {
+    "id": "436",
+    "nom": "l'Adresse ARGELES SUR MER",
+    "adresse": "2 avenue Montgat, 66700 Argelès-sur-Mer",
+    "telephone": "04 68 36 83 89",
+    "url": "https://www.ladresse.com/agence/l-adresse-argeles-sur-mer/436"
+  },
+  {
+    "id": "437",
+    "nom": "l'Adresse BOULOGNE SUR MER",
+    "adresse": "19-21 Grande Rue, 62200 Boulogne-sur-Mer",
+    "telephone": "03 21 87 09 10",
+    "url": "https://www.ladresse.com/agence/l-adresse-boulogne-sur-mer/437"
+  },
+  {
+    "id": "440",
+    "nom": "l'Adresse GUADELOUPE",
+    "adresse": "ZI Jarry, 51 rue Henri Becquerel, 97122 Baie-Mahault",
+    "telephone": "05 90 15 05 90",
+    "url": "https://www.ladresse.com/agence/l-adresse-guadeloupe/440"
+  },
+  {
+    "id": "441",
+    "nom": "l'Adresse LE CHATELET EN BRIE",
+    "adresse": "2 rue du 26 Aout 1944, 77820 Le Châtelet-en-Brie",
+    "telephone": "01 60 69 40 80",
+    "url": "https://www.ladresse.com/agence/l-adresse-le-chatelet-en-brie/441"
+  },
+  {
+    "id": "442",
+    "nom": "l'Adresse VESOUL",
+    "adresse": "7 rue du Commandant Girardot, 70000 Vesoul",
+    "telephone": "06 79 80 84 83",
+    "url": "https://www.ladresse.com/agence/l-adresse-vesoul/442"
+  },
+  {
+    "id": "443",
+    "nom": "l'Adresse SAINT AVERTIN",
+    "adresse": "3 rue de Larcay, 37550 Saint-Avertin",
+    "telephone": "02 47 24 00 44",
+    "url": "https://www.ladresse.com/agence/l-adresse-saint-avertin/443"
+  },
+  {
+    "id": "444",
+    "nom": "l'Adresse Melun",
+    "adresse": "34 avenue du Général Patton, 77000 Melun",
+    "telephone": "01 72 97 32 08",
+    "url": "https://www.ladresse.com/agence/l-adresse-melun/444"
+  },
+  {
+    "id": "445",
+    "nom": "l'Adresse VITRY EN ARTOIS",
+    "adresse": "37 route Nationale, 62490 Vitry-en-Artois",
+    "telephone": "03 21 07 07 64",
+    "url": "https://www.ladresse.com/agence/l-adresse-vitry-en-artois/445"
+  },
+  {
+    "id": "446",
+    "nom": "l'Adresse DOUAI",
+    "adresse": "322 Rue de Paris, 59500 Douai",
+    "telephone": "03 27 96 44 45",
+    "url": "https://www.ladresse.com/agence/l-adresse-douai/446"
+  },
+  {
+    "id": "447",
+    "nom": "l'Adresse PERPIGNAN OUEST",
+    "adresse": "49 Avenue de la Massane, 66000 Perpignan",
+    "telephone": "04 68 08 93 40",
+    "url": "https://www.ladresse.com/agence/l-adresse-perpignan-ouest/447"
+  },
+  {
+    "id": "448",
+    "nom": "l'Adresse Tours Grammont",
+    "adresse": "97 Avenue de Grammont, 37000 Tours",
+    "telephone": "02 47 75 76 80",
+    "url": "https://www.ladresse.com/agence/l-adresse-tours-grammont/448"
+  },
+  {
+    "id": "449",
+    "nom": "L'Adresse Bayonne",
+    "adresse": "9 Avenue Léon Bonnat, 64100 Bayonne",
+    "telephone": "05 59 03 28 12",
+    "url": "https://www.ladresse.com/agence/l-adresse-bayonne/449"
+  },
+  {
+    "id": "450",
+    "nom": "l'Adresse TOURS VELPEAU",
+    "adresse": "81 Rue de la Fuye, 37000 Tours",
+    "telephone": "02 47 36 09 11",
+    "url": "https://www.ladresse.com/agence/l-adresse-tours-velpeau/450"
+  }
+]
