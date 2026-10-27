@@ -64,6 +64,7 @@ def fetch(url, retries=4):
             if r.status_code == 404:
                 return None
             if r.status_code in (403, 429, 500, 502, 503, 504):
+                print(f"  ! HTTP {r.status_code} {url} (essai {i + 1}/{retries})", file=sys.stderr)
                 time.sleep(2 ** i * 2)
                 continue
             r.raise_for_status()
@@ -72,7 +73,21 @@ def fetch(url, retries=4):
         except requests.RequestException as e:
             print(f"  ! {url} ({e})", file=sys.stderr)
             time.sleep(2 ** i * 2)
+    print(f"  !! ABANDON {url}", file=sys.stderr)
     return None
+
+
+GENERIC_NAME_RE = re.compile(r"^\s*(votre agent|nestcard|agent immobilier|nestenn)", re.I)
+
+
+def is_generic(name):
+    return not name or bool(GENERIC_NAME_RE.search(name))
+
+
+def name_from_alt(tag):
+    """Nom complet depuis <img alt="Photo de Prénom NOM">."""
+    img = tag.find("img", alt=re.compile(r"^Photo de\s", re.I))
+    return clean(re.sub(r"^Photo de\s*", "", img["alt"], flags=re.I)) if img else ""
 
 
 def clean(t):
@@ -168,9 +183,26 @@ def parse_agency(html):
         divs = [clean(d.get_text()) for d in a.find_all("div") if not d.find("div")]
         divs = [d for d in divs if d and not d.upper().startswith("CLUB")]
         poste = divs[-1] if len(divs) >= 2 else ""
-        title = a.get("title", "")
-        full = re.sub(r"^Nestcard de\s*", "", title).strip() or (divs[0] if divs else "")
+        title = re.sub(r"^Nestcard de\s*", "", a.get("title", "")).strip()
+        # on écarte les titres génériques ("Votre agent immobilier Agen")
+        cands = [name_from_alt(a), title, divs[0] if divs else ""]
+        full = next((c for c in cands if not is_generic(c)), "")
         info["agents"].append({"nom": full, "poste": poste, "url": href})
+
+    # Agences dont les cartes agents n'ont PAS de lien nestcard (ex. Aiguillon-sur-mer) :
+    # on lit la grille "Nos agents immobiliers" (photo alt = nom complet, puis nom abrégé + poste).
+    if not info["agents"]:
+        for img in soup.select("img.pp_agent"):
+            card = img.find_parent("div", class_=re.compile(r"flex_column"))
+            if not card:
+                continue
+            leaf = [clean(d.get_text()) for d in card.find_all("div") if not d.find("div")]
+            leaf = [d for d in leaf if d and not d.upper().startswith("CLUB") and not re.fullmatch(r"\d{4}", d)]
+            if len(leaf) < 2:
+                continue
+            info["agents"].append(
+                {"nom": name_from_alt(card), "poste": leaf[-1], "url": ""}
+            )
     return info
 
 
@@ -242,15 +274,19 @@ def process(agency):
     cards = {}
     to_fetch = agents if ALL_AGENTS else resps
     for a in to_fetch:
+        if not a["url"]:
+            continue
         h = fetch(a["url"])
         cards[a["url"]] = parse_nestcard(h) if h else {}
+        if not cards[a["url"]].get("email"):
+            print(f"  ? pas d'e-mail pour {a['nom']} ({a['url']})", file=sys.stderr)
 
     for a in resps:
         c = cards.get(a["url"], {})
         rows.append(
             {
                 **base,
-                "responsable": c.get("nom") or a["nom"],
+                "responsable": next((n for n in (c.get("nom"), a["nom"]) if not is_generic(n)), ""),
                 "poste": c.get("poste") or a["poste"],
                 "email_responsable": c.get("email", ""),
                 "telephone_responsable": c.get("telephone", ""),
@@ -270,7 +306,7 @@ def process(agency):
             agent_rows.append(
                 {
                     "agence": agency["nom"],
-                    "nom": c.get("nom") or a["nom"],
+                    "nom": next((n for n in (c.get("nom"), a["nom"]) if not is_generic(n)), ""),
                     "poste": c.get("poste") or a["poste"],
                     "url_nestcard": a["url"],
                     "email": c.get("email", ""),
