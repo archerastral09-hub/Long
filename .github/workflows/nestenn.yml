@@ -36,4 +36,8 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: agences-nestenn
-          path: output/*.csv
+          path: |
+            output/*.csv
+            output/debug/*.html
+          if-no-files-found: warn
+          
