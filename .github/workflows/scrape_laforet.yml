@@ -1,0 +1,54 @@
+name: Scrape agences Laforêt
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Limiter le nombre de fiches (0 = toutes, utile pour tester)"
+        default: "0"
+      scrape_legal:
+        description: "Chercher aussi l'email dans /mentions-legales (1 = oui)"
+        default: "0"
+  schedule:
+    - cron: "0 5 1 * *"   # le 1er de chaque mois à 05:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Lancer le scraper
+        env:
+          LIMIT: ${{ github.event.inputs.limit || '0' }}
+          SCRAPE_LEGAL: ${{ github.event.inputs.scrape_legal || '0' }}
+          OUTPUT_CSV: agences_laforet.csv
+        run: python scrape_laforet.py
+
+      - name: Publier le CSV en artefact
+        uses: actions/upload-artifact@v4
+        with:
+          name: agences-laforet
+          path: |
+            agences_laforet.csv
+            agences_laforet_echecs.txt
+          if-no-files-found: warn
+
+      - name: Commit du CSV dans le dépôt
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add agences_laforet.csv
+          git diff --cached --quiet || (git commit -m "chore: mise à jour agences_laforet.csv" && git push)
