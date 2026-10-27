@@ -62,6 +62,7 @@ def fetch(url, retries=4):
             time.sleep(DELAY)
             r = session().get(url, timeout=30)
             if r.status_code == 404:
+                print(f"  ! HTTP 404 {url}", file=sys.stderr)
                 return None
             if r.status_code in (403, 429, 500, 502, 503, 504):
                 print(f"  ! HTTP {r.status_code} {url} (essai {i + 1}/{retries})", file=sys.stderr)
@@ -230,6 +231,28 @@ def parse_nestcard(html):
             d["telephone"] = clean(val.get_text())
         elif key == "portable":
             d["mobile"] = clean(val.get_text())
+
+    # --- Fallbacks si la structure w20 diffère de celle attendue ---
+    if not d["email"]:
+        for a in soup.find_all("a", href=re.compile(r"^mailto:[^?]+@", re.I)):
+            d["email"] = a["href"][7:].split("?")[0].strip()
+            break
+    if not d["email"]:
+        m = re.search(r"[?&;]mail=([^&\"'\s]+@[^&\"'\s]+)", html.replace("&amp;", "&"))
+        if m:
+            d["email"] = m.group(1)
+    if not d["telephone"] or not d["mobile"]:
+        tels = []
+        for a in soup.find_all("a", href=re.compile(r"^tel:", re.I)):
+            t = clean(a["href"][4:])
+            if t and t not in tels:
+                tels.append(t)
+        for t in tels:
+            digits = re.sub(r"\D", "", t)
+            if re.match(r"0[67]|\+?33[67]", digits):
+                d["mobile"] = d["mobile"] or t
+            else:
+                d["telephone"] = d["telephone"] or t
     return d
 
 
@@ -279,7 +302,17 @@ def process(agency):
         h = fetch(a["url"])
         cards[a["url"]] = parse_nestcard(h) if h else {}
         if not cards[a["url"]].get("email"):
-            print(f"  ? pas d'e-mail pour {a['nom']} ({a['url']})", file=sys.stderr)
+            n = len(h) if h else 0
+            print(
+                f"  ? pas d'e-mail pour {a['nom']} ({a['url']}) | html={n} octets"
+                f" | mailto={'mailto:' in (h or '')} | w20={'w20' in (h or '')}",
+                file=sys.stderr,
+            )
+            if h:
+                os.makedirs(os.path.join(OUT_DIR, "debug"), exist_ok=True)
+                fn = re.sub(r"\W+", "_", a["url"])[-80:] + ".html"
+                with open(os.path.join(OUT_DIR, "debug", fn), "w", encoding="utf-8") as f:
+                    f.write(h)
 
     for a in resps:
         c = cards.get(a["url"], {})
@@ -349,3 +382,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+          
