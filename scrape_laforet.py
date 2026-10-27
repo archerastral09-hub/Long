@@ -149,6 +149,8 @@ def agencies_from_crawl() -> set[str]:
 # --------------------------------------------------------------------------- #
 def fmt_phone(raw: str) -> str:
     digits = re.sub(r"\D", "", raw)
+    if digits.startswith("33") and len(digits) == 11:  # +33 2 31 93 51 72 -> 02 31 93 51 72
+        digits = "0" + digits[2:]
     if len(digits) == 10:
         return " ".join(digits[i:i + 2] for i in range(0, 10, 2))
     return raw.strip()
@@ -266,3 +268,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+  
