@@ -1,0 +1,39 @@
+name: Scrape agences Nestenn
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_agencies:
+        description: "Nb max d'agences (0 = toutes, ~405)"
+        default: "0"
+      all_agents:
+        description: "1 = exporter aussi tous les agents (CSV séparé)"
+        default: "0"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scrape
+        env:
+          MAX_AGENCIES: ${{ inputs.max_agencies }}
+          ALL_AGENTS: ${{ inputs.all_agents }}
+          WORKERS: "4"
+          DELAY: "0.3"
+          OUT_DIR: output
+        run: python scrape_nestenn.py
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: agences-nestenn
+          path: output/*.csv
