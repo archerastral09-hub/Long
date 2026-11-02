@@ -1366,7 +1366,7 @@
   },
   {
     "id": "258",
-    "nom": "l'Adresse LAU DU MARAIS",
+    "nom": "l'Adresse Lau du Marais",
     "adresse": "29 rue Gambetta, 17230 Marans",
     "telephone": "05 46 69 41 61",
     "url": "https://www.ladresse.com/agence/l-adresse-lau-du-marais/258"
@@ -1807,10 +1807,10 @@
   },
   {
     "id": "353",
-    "nom": "IMMO L'ADRESSE",
+    "nom": "l'Adresse Malzéville",
     "adresse": "27 rue Sadi Carnot, 54220 Malzéville",
     "telephone": "03 72 47 27 28",
-    "url": "https://www.ladresse.com/agence/immo-l-adresse/353"
+    "url": "https://www.ladresse.com/agence/l-adresse-malzeville/353"
   },
   {
     "id": "354",
@@ -1940,7 +1940,7 @@
   },
   {
     "id": "378",
-    "nom": "l'Adresse ROCHECORBON - TOURS NORD",
+    "nom": "l'Adresse Rochecorbon - Tours nord",
     "adresse": "51, quai de la Loire, 37210 Rochecorbon",
     "telephone": "02 47 49 88 81",
     "url": "https://www.ladresse.com/agence/l-adresse-rochecorbon-tours-nord/378"
@@ -2199,10 +2199,10 @@
   },
   {
     "id": "416",
-    "nom": "L'ADRESSE IMMOBILIER Myooran NITHI",
+    "nom": "l'Adresse Myooran NITHI",
     "adresse": "160 avenue du Général de Gaulle, 77270 Villeparisis",
     "telephone": "01 64 27 00 15",
-    "url": "https://www.ladresse.com/agence/l-adresse-immobilier-myooran-nithi/416"
+    "url": "https://www.ladresse.com/agence/l-adresse-myooran-nithi/416"
   },
   {
     "id": "417",
@@ -2269,28 +2269,28 @@
   },
   {
     "id": "427",
-    "nom": "l'Adresse VALENCE",
+    "nom": "l'Adresse Valence",
     "adresse": "8 place de la République, 26000 Valence",
     "telephone": "09 81 15 02 32",
     "url": "https://www.ladresse.com/agence/l-adresse-valence/427"
   },
   {
     "id": "429",
-    "nom": "l'Adresse CHAMBERY",
+    "nom": "l'Adresse Chambéry",
     "adresse": "15 boulevard de la Colonne, 73000 Chambéry",
     "telephone": "04 79 28 72 14",
     "url": "https://www.ladresse.com/agence/l-adresse-chambery/429"
   },
   {
     "id": "430",
-    "nom": "L'Adresse MAISONS-LAFFITTE",
+    "nom": "L'Adresse Maisons Laffitte",
     "adresse": "3 Ter rue de la Muette, 78600 Maisons-Laffitte",
     "telephone": "01 61 30 00 85",
     "url": "https://www.ladresse.com/agence/l-adresse-maisons-laffitte/430"
   },
   {
     "id": "431",
-    "nom": "l'Adresse LUNEVILLE",
+    "nom": "l'Adresse Lunéville",
     "adresse": "33 Rue de Sarrebourg, 54300 Lunéville",
     "telephone": "03 83 77 60 32",
     "url": "https://www.ladresse.com/agence/l-adresse-luneville/431"
@@ -2304,63 +2304,63 @@
   },
   {
     "id": "433",
-    "nom": "l'Adresse CHATOU",
+    "nom": "l'Adresse Chatou",
     "adresse": "14, avenue du Maréchal Foch, 78400 Chatou",
     "telephone": "01 61 30 51 20",
     "url": "https://www.ladresse.com/agence/l-adresse-chatou/433"
   },
   {
     "id": "434",
-    "nom": "L'ADRESSE Vinon sur Verdon",
+    "nom": "l'Adresse Vinon sur Verdon",
     "adresse": "555 Avenue de la Republique, 83560 Vinon-sur-Verdon",
     "telephone": "07 69 36 45 55",
     "url": "https://www.ladresse.com/agence/l-adresse-vinon-sur-verdon/434"
   },
   {
     "id": "435",
-    "nom": "l'Adresse MANOSQUE",
+    "nom": "l'Adresse Manosque",
     "adresse": "26 avenue Jean Giono, 04100 Manosque",
     "telephone": "07 69 36 45 55",
     "url": "https://www.ladresse.com/agence/l-adresse-manosque/435"
   },
   {
     "id": "436",
-    "nom": "l'Adresse ARGELES SUR MER",
+    "nom": "l'Adresse Argeles sur Mer",
     "adresse": "2 avenue Montgat, 66700 Argelès-sur-Mer",
     "telephone": "04 68 36 83 89",
     "url": "https://www.ladresse.com/agence/l-adresse-argeles-sur-mer/436"
   },
   {
     "id": "437",
-    "nom": "l'Adresse BOULOGNE SUR MER",
+    "nom": "l'Adresse Boulogne sur Mer",
     "adresse": "19-21 Grande Rue, 62200 Boulogne-sur-Mer",
     "telephone": "03 21 87 09 10",
     "url": "https://www.ladresse.com/agence/l-adresse-boulogne-sur-mer/437"
   },
   {
     "id": "440",
-    "nom": "l'Adresse GUADELOUPE",
+    "nom": "l'Adresse Guadeloupe",
     "adresse": "ZI Jarry, 51 rue Henri Becquerel, 97122 Baie-Mahault",
     "telephone": "05 90 15 05 90",
     "url": "https://www.ladresse.com/agence/l-adresse-guadeloupe/440"
   },
   {
     "id": "441",
-    "nom": "l'Adresse LE CHATELET EN BRIE",
+    "nom": "l'Adresse Le Chatelet en Brie",
     "adresse": "2 rue du 26 Aout 1944, 77820 Le Châtelet-en-Brie",
     "telephone": "01 60 69 40 80",
     "url": "https://www.ladresse.com/agence/l-adresse-le-chatelet-en-brie/441"
   },
   {
     "id": "442",
-    "nom": "l'Adresse VESOUL",
+    "nom": "l'Adresse Vesoul",
     "adresse": "7 rue du Commandant Girardot, 70000 Vesoul",
     "telephone": "06 79 80 84 83",
     "url": "https://www.ladresse.com/agence/l-adresse-vesoul/442"
   },
   {
     "id": "443",
-    "nom": "l'Adresse SAINT AVERTIN",
+    "nom": "l'Adresse Saint Avertin",
     "adresse": "3 rue de Larcay, 37550 Saint-Avertin",
     "telephone": "02 47 24 00 44",
     "url": "https://www.ladresse.com/agence/l-adresse-saint-avertin/443"
@@ -2374,21 +2374,21 @@
   },
   {
     "id": "445",
-    "nom": "l'Adresse VITRY EN ARTOIS",
+    "nom": "l'Adresse Vitry en Artois",
     "adresse": "37 route Nationale, 62490 Vitry-en-Artois",
     "telephone": "03 21 07 07 64",
     "url": "https://www.ladresse.com/agence/l-adresse-vitry-en-artois/445"
   },
   {
     "id": "446",
-    "nom": "l'Adresse DOUAI",
+    "nom": "l'Adresse Douai",
     "adresse": "322 Rue de Paris, 59500 Douai",
     "telephone": "03 27 96 44 45",
     "url": "https://www.ladresse.com/agence/l-adresse-douai/446"
   },
   {
     "id": "447",
-    "nom": "l'Adresse PERPIGNAN OUEST",
+    "nom": "l'Adresse Perpignan Ouest",
     "adresse": "49 Avenue de la Massane, 66000 Perpignan",
     "telephone": "04 68 08 93 40",
     "url": "https://www.ladresse.com/agence/l-adresse-perpignan-ouest/447"
@@ -2402,14 +2402,14 @@
   },
   {
     "id": "449",
-    "nom": "L'Adresse Bayonne",
+    "nom": "l'Adresse Bayonne",
     "adresse": "9 Avenue Léon Bonnat, 64100 Bayonne",
     "telephone": "05 59 03 28 12",
     "url": "https://www.ladresse.com/agence/l-adresse-bayonne/449"
   },
   {
     "id": "450",
-    "nom": "l'Adresse TOURS VELPEAU",
+    "nom": "l'Adresse Tours Velpeau",
     "adresse": "81 Rue de la Fuye, 37000 Tours",
     "telephone": "02 47 36 09 11",
     "url": "https://www.ladresse.com/agence/l-adresse-tours-velpeau/450"
